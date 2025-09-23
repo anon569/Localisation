@@ -37,7 +37,7 @@
     },
     "openrct2.footpath_surface.invisible": {
         "reference-name": "Invisible Footpath",
-        "name": "Láthatatlan út"
+        "name": "Láthatatlan gyalogút"
     },
     "openrct2.footpath_surface.queue_invisible": {
         "reference-name": "Invisible Queue",
@@ -93,7 +93,7 @@
     },
     "rct1.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Sloped)",
-        "name": "Crazy Paving Footpath (Sloped)"
+        "name": "Törtkő burkolatú gyalogút (lejtős)"
     },
     "rct1.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Square)",
@@ -141,11 +141,11 @@
     },
     "rct1.ride.chairlift_cars": {
         "reference-name": "Chairlift Cars",
-        "name": "Chairlift Cars",
+        "name": "Felvonókocsik",
         "reference-description": "Open cars for chairlift",
-        "description": "Open cars for chairlift",
+        "description": "Nyitott kocsik a felvonóhoz",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct1.ride.corkscrew_trains": {
         "reference-name": "Corkscrew Roller Coaster Trains",
@@ -157,11 +157,11 @@
     },
     "rct1.ride.dinghies": {
         "reference-name": "Dinghies",
-        "name": "Dinghies",
+        "name": "Gumicsónakok",
         "reference-description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
-        "description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
+        "description": "Felfújható gumicsónakok, amelyek kanyarogva csúsznak le a félköríves vagy teljesen zárt csőpályán",
         "reference-capacity": "2 passengers per dinghy",
-        "capacity": "2 passengers per dinghy"
+        "capacity": "2 utas csónakonként"
     },
     "rct1.ride.dodgems": {
         "reference-name": "Dodgems",
@@ -743,7 +743,7 @@
         "reference-name": "Ski-lift Chairs",
         "name": "Sífelvonó-székek",
         "reference-description": "Open cars for chairlift",
-        "description": "Nyitott kocsik a sífelvonóhoz",
+        "description": "Nyitott kocsik a felvonóhoz",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 utas kocsinként"
     },
@@ -1809,7 +1809,7 @@
     },
     "rct2.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Stairs)",
-        "name": "Crazy Paving Footpath (Stairs)"
+        "name": "Törtkő burkolatú gyalogút (lépcsős)"
     },
     "rct2.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Rounded)",
@@ -2279,11 +2279,11 @@
     },
     "rct2.ride.clift1": {
         "reference-name": "Chairlift Cars",
-        "name": "Chairlift Cars",
+        "name": "Felvonókocsik",
         "reference-description": "Open cars for chairlift",
-        "description": "Open cars for chairlift",
+        "description": "Nyitott kocsik a felvonóhoz",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct2.ride.clift2": {
         "reference-name": "Ski-lift Chairs",
@@ -2329,11 +2329,11 @@
     },
     "rct2.ride.ding1": {
         "reference-name": "Dinghies",
-        "name": "Dinghies",
+        "name": "Gumicsónakok",
         "reference-description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
-        "description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
+        "description": "Felfújható gumicsónakok, amelyek kanyarogva csúsznak le a félköríves vagy teljesen zárt csőpályán",
         "reference-capacity": "2 passengers per dinghy",
-        "capacity": "2 passengers per dinghy"
+        "capacity": "2 utas csónakonként"
     },
     "rct2.ride.dodg1": {
         "reference-name": "Dodgems",
@@ -2675,25 +2675,25 @@
     },
     "rct2.ride.obs1": {
         "reference-name": "Single-deck Cabin",
-        "name": "Single-deck Cabin",
+        "name": "Egyszintes kabin",
         "reference-description": "Single-deck rotating observation cabin",
-        "description": "Single-deck rotating observation cabin",
+        "description": "Egyszintes, forgó kilátókabin",
         "reference-capacity": "20 passengers",
-        "capacity": "20 passengers"
+        "capacity": "20 utas"
     },
     "rct2.ride.obs2": {
         "reference-name": "Double-deck Cabin",
-        "name": "Double-deck Cabin",
+        "name": "Kétszintes kabin",
         "reference-description": "Twin-deck rotating observation cabin",
-        "description": "Twin-deck rotating observation cabin",
+        "description": "Kétszintes, forgó kilátókabin",
         "reference-capacity": "32 passengers",
-        "capacity": "32 passengers"
+        "capacity": "32 utas"
     },
     "rct2.ride.pizzs": {
         "reference-name": "Pizza Stall",
-        "name": "Pizza Stall",
+        "name": "Pizzásbódé",
         "reference-description": "A stall selling portions of pizza",
-        "description": "A stall selling portions of pizza"
+        "description": "Bódé, ahol pizzát árulnak"
     },
     "rct2.ride.pmt1": {
         "reference-name": "Powered Mine Trains",
@@ -2765,11 +2765,11 @@
     },
     "rct2.ride.rckc": {
         "reference-name": "Rocket Cars",
-        "name": "Rocket Cars",
+        "name": "Rakéta kocsik",
         "reference-description": "Roller coaster cars themed to look like rockets",
-        "description": "Roller coaster cars themed to look like rockets",
+        "description": "Hullámvasút kocsik, rakéta témával",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct2.ride.rcr": {
         "reference-name": "Racing Cars",
@@ -4809,7 +4809,7 @@
     },
     "rct2.scenery_small.trc": {
         "reference-name": "Roman Column",
-        "name": "Roman Column"
+        "name": "Római oszlop"
     },
     "rct2.scenery_small.trf": {
         "reference-name": "Red Fir Tree",
@@ -4829,7 +4829,7 @@
     },
     "rct2.scenery_small.trms": {
         "reference-name": "Roman Statue",
-        "name": "Roman Statue"
+        "name": "Római szobor"
     },
     "rct2.scenery_small.tropt1": {
         "reference-name": "Tree",
@@ -4837,7 +4837,7 @@
     },
     "rct2.scenery_small.trws": {
         "reference-name": "Roman Statue",
-        "name": "Roman Statue"
+        "name": "Római szobor"
     },
     "rct2.scenery_small.ts0": {
         "reference-name": "Tree",
@@ -8609,7 +8609,7 @@
     },
     "rct2ww.park_entrance.japent": {
         "reference-name": "Japanese Park Entrance",
-        "name": "Japanese Park Entrance"
+        "name": "Japán parkbejárat"
     },
     "rct2ww.park_entrance.naent": {
         "reference-name": "North America Park Entrance",
@@ -8649,11 +8649,11 @@
     },
     "rct2ww.ride.bullet": {
         "reference-name": "Bullet Trains",
-        "name": "Bullet Trains",
+        "name": "Szuperexpressz",
         "reference-description": "Japanese Bullet Train themed roller coaster cars",
-        "description": "Japanese Bullet Train themed roller coaster cars",
+        "description": "Japán szuperexpresszvonat-témájú hullámvasútkocsik",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 fő kocsinként"
     },
     "rct2ww.ride.caddilac": {
         "reference-name": "Limousine Trains",
@@ -9625,15 +9625,15 @@
     },
     "rct2ww.scenery_small.antilopf": {
         "reference-name": "Antelope Female",
-        "name": "Antelope Female"
+        "name": "Antilop nőstény"
     },
     "rct2ww.scenery_small.antilopm": {
         "reference-name": "Antelope Male",
-        "name": "Antelope Male"
+        "name": "Antilop hím"
     },
     "rct2ww.scenery_small.antilopp": {
         "reference-name": "Antelope Pair",
-        "name": "Antelope Pair"
+        "name": "Antilop pár"
     },
     "rct2ww.scenery_small.babpanda": {
         "reference-name": "Baby Panda",
@@ -9653,7 +9653,7 @@
     },
     "rct2ww.scenery_small.bamboobs": {
         "reference-name": "Bamboo Bush",
-        "name": "Bamboo Bush"
+        "name": "Bambuszbokor"
     },
     "rct2ww.scenery_small.bamboopl": {
         "reference-name": "Bamboo Plinth",
@@ -9765,51 +9765,51 @@
     },
     "rct2ww.scenery_small.jachtree": {
         "reference-name": "Japanese Cherry Tree",
-        "name": "Japanese Cherry Tree"
+        "name": "Japán cseresznyefa"
     },
     "rct2ww.scenery_small.japchblo": {
         "reference-name": "Japanese Cherry Blossom Tree",
-        "name": "Japanese Cherry Blossom Tree"
+        "name": "Japán díszcseresznye"
     },
     "rct2ww.scenery_small.jappintr": {
         "reference-name": "Japanese Pine Tree",
-        "name": "Japanese Pine Tree"
+        "name": "Japán fenyő"
     },
     "rct2ww.scenery_small.japsnotr": {
         "reference-name": "Japanese Snowball Tree",
-        "name": "Japanese Snowball Tree"
+        "name": "Redőslevelű bangita"
     },
     "rct2ww.scenery_small.jpflag01": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Japanese Silk Flag"
+        "name": "Japán selyemzászló"
     },
     "rct2ww.scenery_small.jpflag02": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Japanese Silk Flag"
+        "name": "Japán selyemzászló"
     },
     "rct2ww.scenery_small.jpflag03": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Japanese Silk Flag"
+        "name": "Japán selyemzászló"
     },
     "rct2ww.scenery_small.jpflag04": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Japanese Silk Flag"
+        "name": "Japán selyemzászló"
     },
     "rct2ww.scenery_small.jpflag05": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Japanese Silk Flag"
+        "name": "Japán selyemzászló"
     },
     "rct2ww.scenery_small.jpflag06": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Japanese Silk Flag"
+        "name": "Japán selyemzászló"
     },
     "rct2ww.scenery_small.oilpump": {
         "reference-name": "Oil Pump",
-        "name": "Oil Pump"
+        "name": "Olajszivattyú"
     },
     "rct2ww.scenery_small.oriegong": {
         "reference-name": "Asian Gong",
-        "name": "Asian Gong"
+        "name": "Ázsiai gong"
     },
     "rct2ww.scenery_small.pcg": {
         "reference-name": "Pipe",
@@ -11961,7 +11961,7 @@
         "reference-park_name": "Transformation",
         "park_name": "Transzformáció",
         "reference-details": "We were expecting you…",
-        "details": "Vártunk téged…"
+        "details": "Már vártunk téged…"
     },
     "uces.scenario_meta.urbis_incognitus": {
         "reference-name": "Urbis Incognitus",
