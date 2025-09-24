@@ -37,7 +37,7 @@
     },
     "openrct2.footpath_surface.invisible": {
         "reference-name": "Invisible Footpath",
-        "name": "Láthatatlan gyalogút"
+        "name": "Láthatatlan járda"
     },
     "openrct2.footpath_surface.queue_invisible": {
         "reference-name": "Invisible Queue",
@@ -93,11 +93,11 @@
     },
     "rct1.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Sloped)",
-        "name": "Törtkő burkolatú gyalogút (lejtős)"
+        "name": "Törtkő burkolatú járda (lejtős)"
     },
     "rct1.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Square)",
-        "name": "Dirt Footpath (Square)"
+        "name": "Földes járda (négyzet)"
     },
     "rct1.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Sloped)",
@@ -109,11 +109,11 @@
     },
     "rct1.footpath_surface.tarmac": {
         "reference-name": "Tarmac Footpath (Sloped)",
-        "name": "Tarmac Footpath (Sloped)"
+        "name": "Aszfaltos járda (lejtős)"
     },
     "rct1.footpath_surface.tiles_brown": {
         "reference-name": "Brown Tiled Footpath",
-        "name": "Brown Tiled Footpath"
+        "name": "Barna csempézett járda"
     },
     "rct1.ride.bobsleigh_trains": {
         "reference-name": "Bobsleigh Trains",
@@ -1809,7 +1809,7 @@
     },
     "rct2.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Stairs)",
-        "name": "Törtkő burkolatú gyalogút (lépcsős)"
+        "name": "Törtkő burkolatú járda (lépcsős)"
     },
     "rct2.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Rounded)",
@@ -6597,19 +6597,19 @@
     },
     "rct2tt.scenery_large.hrbwal07": {
         "reference-name": "Harbour Wall Corner Piece",
-        "name": "Harbour Wall Corner Piece"
+        "name": "Kikötőfal sarokelem"
     },
     "rct2tt.scenery_large.hrbwal08": {
         "reference-name": "Harbour Wall Corner Piece",
-        "name": "Harbour Wall Corner Piece"
+        "name": "Kikötőfal sarokelem"
     },
     "rct2tt.scenery_large.hrbwal09": {
         "reference-name": "Harbour Wall with Dock",
-        "name": "Harbour Wall with Dock"
+        "name": "Kikötőfal mólóval"
     },
     "rct2tt.scenery_large.hrbwal11": {
         "reference-name": "Harbour Dock",
-        "name": "Harbour Dock"
+        "name": "Kikötőfal mólóval"
     },
     "rct2tt.scenery_large.jailxx17": {
         "reference-name": "Prison Door",
@@ -7405,87 +7405,87 @@
     },
     "rct2tt.scenery_small.hevbth01": {
         "reference-name": "Heavenly Bath Pool",
-        "name": "Heavenly Bath Pool"
+        "name": "Mennyei fürdő medence"
     },
     "rct2tt.scenery_small.hevbth02": {
         "reference-name": "Heavenly Bath Pool Corner",
-        "name": "Heavenly Bath Pool Corner"
+        "name": "Mennyei fürdő medencesarok"
     },
     "rct2tt.scenery_small.hevbth03": {
         "reference-name": "Heavenly Baths Fountain",
-        "name": "Heavenly Baths Fountain"
+        "name": "Mennyei fürdő szökőkút"
     },
     "rct2tt.scenery_small.hevbth04": {
         "reference-name": "Heavenly Baths Fountain",
-        "name": "Heavenly Baths Fountain"
+        "name": "Mennyei fürdő szökőkút"
     },
     "rct2tt.scenery_small.hevbth05": {
         "reference-name": "Heavenly Baths Arch",
-        "name": "Heavenly Baths Arch"
+        "name": "Mennyei fürdő boltív"
     },
     "rct2tt.scenery_small.hevbth06": {
         "reference-name": "Heavenly Baths Arch",
-        "name": "Heavenly Baths Arch"
+        "name": "Mennyei fürdő boltív"
     },
     "rct2tt.scenery_small.hevbth07": {
         "reference-name": "Heavenly Baths Arch",
-        "name": "Heavenly Baths Arch"
+        "name": "Mennyei fürdő boltív"
     },
     "rct2tt.scenery_small.hevbth08": {
         "reference-name": "Heavenly Baths Stairway",
-        "name": "Heavenly Baths Stairway"
+        "name": "Mennyei fürdő lépcső"
     },
     "rct2tt.scenery_small.hevbth09": {
         "reference-name": "Heavenly Baths Stairway",
-        "name": "Heavenly Baths Stairway"
+        "name": "Mennyei fürdő lépcső"
     },
     "rct2tt.scenery_small.hevbth10": {
         "reference-name": "Heavenly Baths Architecture",
-        "name": "Heavenly Baths Architecture"
+        "name": "Mennyei fürdő építmény"
     },
     "rct2tt.scenery_small.hevbth11": {
         "reference-name": "Heavenly Baths Architecture",
-        "name": "Heavenly Baths Architecture"
+        "name": "Mennyei fürdő építmény"
     },
     "rct2tt.scenery_small.hevbth12": {
         "reference-name": "Heavenly Baths Architecture",
-        "name": "Heavenly Baths Architecture"
+        "name": "Mennyei fürdő építmény"
     },
     "rct2tt.scenery_small.hevbth13": {
         "reference-name": "Heavenly Baths Architecture",
-        "name": "Heavenly Baths Architecture"
+        "name": "Mennyei fürdő építmény"
     },
     "rct2tt.scenery_small.hevbth14": {
         "reference-name": "Heavenly Bath Window",
-        "name": "Heavenly Bath Window"
+        "name": "Mennyei fürdő ablak"
     },
     "rct2tt.scenery_small.hevbth15": {
         "reference-name": "Heavenly Bath Floor",
-        "name": "Heavenly Bath Floor"
+        "name": "Mennyei fürdő padlózat"
     },
     "rct2tt.scenery_small.hevbth16": {
         "reference-name": "Heavenly Bath Pool Steps",
-        "name": "Heavenly Bath Pool Steps"
+        "name": "Mennyei fürdő lépcsők"
     },
     "rct2tt.scenery_small.hevbth17": {
         "reference-name": "Heavenly Bath Pool Edge",
-        "name": "Heavenly Bath Pool Edge"
+        "name": "Mennyei fürdő medenceperem"
     },
     "rct2tt.scenery_small.hevrof01": {
         "reference-name": "Heavenly Bath Roof",
-        "name": "Heavenly Bath Roof"
+        "name": "Mennyei fürdő tető"
     },
     "rct2tt.scenery_small.hevrof02": {
         "reference-name": "Heavenly Bath Roof",
-        "name": "Heavenly Bath Roof"
+        "name": "Mennyei fürdő tető"
     },
     "rct2tt.scenery_small.hevrof03": {
         "reference-name": "Heavenly Bath Roof",
-        "name": "Heavenly Bath Roof"
+        "name": "Mennyei fürdő tető"
     },
     "rct2tt.scenery_small.hevrof04": {
         "reference-name": "Heavenly Bath Roof",
-        "name": "Heavenly Bath Roof"
+        "name": "Mennyei fürdő tető"
     },
     "rct2tt.scenery_small.horsecrt": {
         "reference-name": "Horse",
@@ -7509,27 +7509,27 @@
     },
     "rct2tt.scenery_small.hrbwal01": {
         "reference-name": "Harbour Wall",
-        "name": "Harbour Wall"
+        "name": "Kikötőfal"
     },
     "rct2tt.scenery_small.hrbwal02": {
         "reference-name": "Harbour Wall with Fishing Gear",
-        "name": "Harbour Wall with Fishing Gear"
+        "name": "Kikötőfal halászfelszereléssel"
     },
     "rct2tt.scenery_small.hrbwal03": {
         "reference-name": "Harbour Wall with Moor",
-        "name": "Harbour Wall with Moor"
+        "name": "Kikötőfal kikötőoszloppal"
     },
     "rct2tt.scenery_small.hrbwal04": {
         "reference-name": "Harbour Wall with Moor",
-        "name": "Harbour Wall with Moor"
+        "name": "Kikötőfal kikötőoszloppal"
     },
     "rct2tt.scenery_small.hrbwal05": {
         "reference-name": "Harbour Wall with Moor",
-        "name": "Harbour Wall with Moor"
+        "name": "Kikötőfal kikötőoszloppal"
     },
     "rct2tt.scenery_small.hrbwal06": {
         "reference-name": "Harbour Wall with Moor",
-        "name": "Harbour Wall with Moor"
+        "name": "Kikötőfal kikötőoszloppal"
     },
     "rct2tt.scenery_small.hurcluls": {
         "reference-name": "Hercules",
