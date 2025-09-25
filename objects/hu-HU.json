@@ -661,11 +661,11 @@
     },
     "rct1aa.ride.bicycles": {
         "reference-name": "Bicycles",
-        "name": "Bicycles",
+        "name": "Kerékpárok",
         "reference-description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
-        "description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
+        "description": "Speciális kerékpárok, amelyek egysínű pályán haladnak, a kerékpárosok pedálozásával hajtva",
         "reference-capacity": "1 rider per bicycle",
-        "capacity": "1 rider per bicycle"
+        "capacity": "1 utas kerékpáronként"
     },
     "rct1aa.ride.floorless_twister_trains": {
         "reference-name": "Floorless Twister Trains",
@@ -2619,11 +2619,11 @@
     },
     "rct2.ride.monbk": {
         "reference-name": "Bicycles",
-        "name": "Bicycles",
+        "name": "Kerékpárok",
         "reference-description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
-        "description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
+        "description": "Speciális kerékpárok, amelyek egysínű pályán haladnak, a kerékpárosok pedálozásával hajtva",
         "reference-capacity": "1 rider per bicycle",
-        "capacity": "1 rider per bicycle"
+        "capacity": "1 utas kerékpáronként"
     },
     "rct2.ride.mono1": {
         "reference-name": "Streamlined Monorail Trains",
@@ -3429,19 +3429,19 @@
     },
     "rct2.scenery_group.scgabstr": {
         "reference-name": "Abstract Theming",
-        "name": "Abstract Theming"
+        "name": "Absztrakt téma"
     },
     "rct2.scenery_group.scgcandy": {
         "reference-name": "Giant Candy Theming",
-        "name": "Giant Candy Theming"
+        "name": "Óriáscukor-téma"
     },
     "rct2.scenery_group.scgclass": {
         "reference-name": "Classical/Roman Theming",
-        "name": "Classical/Roman Theming"
+        "name": "Klasszikus/római téma"
     },
     "rct2.scenery_group.scgegypt": {
         "reference-name": "Egyptian Theming",
-        "name": "Egyptian Theming"
+        "name": "Egyiptomi téma"
     },
     "rct2.scenery_group.scgfence": {
         "reference-name": "Fences and Walls",
@@ -3453,11 +3453,11 @@
     },
     "rct2.scenery_group.scggiant": {
         "reference-name": "Giant Garden Theming",
-        "name": "Giant Garden Theming"
+        "name": "Óriáskert-téma"
     },
     "rct2.scenery_group.scghallo": {
         "reference-name": "Creepy Theming",
-        "name": "Creepy Theming"
+        "name": "Hátborzongató téma"
     },
     "rct2.scenery_group.scgindus": {
         "reference-name": "Mechanical Theming",
@@ -3469,23 +3469,23 @@
     },
     "rct2.scenery_group.scgjuras": {
         "reference-name": "Jurassic Theming",
-        "name": "Jurassic Theming"
+        "name": "Jura kori téma"
     },
     "rct2.scenery_group.scgmart": {
         "reference-name": "Martian Theming",
-        "name": "Martian Theming"
+        "name": "Marsi téma"
     },
     "rct2.scenery_group.scgmedie": {
         "reference-name": "Medieval Theming",
-        "name": "Medieval Theming"
+        "name": "Középkori téma"
     },
     "rct2.scenery_group.scgmine": {
         "reference-name": "Mine Theming",
-        "name": "Mine Theming"
+        "name": "Bánya téma"
     },
     "rct2.scenery_group.scgorien": {
         "reference-name": "Pagoda Theming",
-        "name": "Pagoda Theming"
+        "name": "Pagoda téma"
     },
     "rct2.scenery_group.scgpathx": {
         "reference-name": "Signs and Items for Footpaths",
@@ -3493,7 +3493,7 @@
     },
     "rct2.scenery_group.scgpirat": {
         "reference-name": "Pirates Theming",
-        "name": "Pirates Theming"
+        "name": "Kalóz téma"
     },
     "rct2.scenery_group.scgshrub": {
         "reference-name": "Shrubs and Ornaments",
@@ -3501,23 +3501,23 @@
     },
     "rct2.scenery_group.scgsixfl": {
         "reference-name": "Six Flags Theming",
-        "name": "Six Flags Theming"
+        "name": "Six Flags téma"
     },
     "rct2.scenery_group.scgsnow": {
         "reference-name": "Snow and Ice Theming",
-        "name": "Snow and Ice Theming"
+        "name": "Hó és jég téma"
     },
     "rct2.scenery_group.scgspace": {
         "reference-name": "Space Theming",
-        "name": "Space Theming"
+        "name": "Űrbéli téma"
     },
     "rct2.scenery_group.scgspook": {
         "reference-name": "Spooky Theming",
-        "name": "Spooky Theming"
+        "name": "Kísérteties téma"
     },
     "rct2.scenery_group.scgsport": {
         "reference-name": "Sports Theming",
-        "name": "Sports Theming"
+        "name": "Sport téma"
     },
     "rct2.scenery_group.scgtrees": {
         "reference-name": "Trees",
@@ -3525,7 +3525,7 @@
     },
     "rct2.scenery_group.scgurban": {
         "reference-name": "Urban Theming",
-        "name": "Urban Theming"
+        "name": "Városi téma"
     },
     "rct2.scenery_group.scgwalls": {
         "reference-name": "Walls and Roofs",
@@ -3533,15 +3533,15 @@
     },
     "rct2.scenery_group.scgwater": {
         "reference-name": "Water Feature Theming",
-        "name": "Water Feature Theming"
+        "name": "Vizes látványosságok téma"
     },
     "rct2.scenery_group.scgwond": {
         "reference-name": "Wonderland Theming",
-        "name": "Wonderland Theming"
+        "name": "Csodaország téma"
     },
     "rct2.scenery_group.scgwwest": {
         "reference-name": "Wild West Theming",
-        "name": "Wild West Theming"
+        "name": "Vadnyugat téma"
     },
     "rct2.scenery_large.badrack": {
         "reference-name": "Badminton Racket",
@@ -3577,11 +3577,11 @@
     },
     "rct2.scenery_large.sah3": {
         "reference-name": "Tenement",
-        "name": "Tenement"
+        "name": "Bérház"
     },
     "rct2.scenery_large.saloon": {
         "reference-name": "Saloon",
-        "name": "Saloon"
+        "name": "Kocsma"
     },
     "rct2.scenery_large.scln": {
         "reference-name": "Colonnade",
@@ -3613,7 +3613,7 @@
     },
     "rct2.scenery_large.shs1": {
         "reference-name": "Terraced House",
-        "name": "Terraced House"
+        "name": "Sorház"
     },
     "rct2.scenery_large.shs2": {
         "reference-name": "House",
@@ -3621,7 +3621,7 @@
     },
     "rct2.scenery_large.sip": {
         "reference-name": "Ice Palace",
-        "name": "Ice Palace"
+        "name": "Jégpalota"
     },
     "rct2.scenery_large.smb": {
         "reference-name": "Martian Building",
