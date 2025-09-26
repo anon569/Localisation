@@ -113,7 +113,7 @@
     },
     "rct1.footpath_surface.tiles_brown": {
         "reference-name": "Brown Tiled Footpath",
-        "name": "Barna csempézett járda"
+        "name": "Barna kőlapos járda"
     },
     "rct1.ride.bobsleigh_trains": {
         "reference-name": "Bobsleigh Trains",
@@ -251,11 +251,11 @@
     },
     "rct1.ride.mouse_cars": {
         "reference-name": "Mouse Cars",
-        "name": "Mouse Cars",
+        "name": "Egérkocsik",
         "reference-description": "Individual cars shaped like a mouse",
-        "description": "Individual cars shaped like a mouse",
+        "description": "Különálló kocsik egér formában",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct1.ride.pickup_trucks": {
         "reference-name": "Pickup Trucks",
@@ -657,7 +657,7 @@
     },
     "rct1aa.footpath_surface.tiles_grey": {
         "reference-name": "Grey Tiled Footpath",
-        "name": "Grey Tiled Footpath"
+        "name": "Szürke kőlapos járda"
     },
     "rct1aa.ride.bicycles": {
         "reference-name": "Bicycles",
@@ -773,11 +773,11 @@
     },
     "rct1aa.ride.steel_wild_mouse_cars": {
         "reference-name": "Mouse Cars",
-        "name": "Mouse Cars",
+        "name": "Egérkocsik",
         "reference-description": "Individual cars shaped like mice",
-        "description": "Individual cars shaped like mice",
+        "description": "Különálló kocsik egerek formájában",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct1aa.ride.suspended_monorail_trains": {
         "reference-name": "Suspended Monorail Trains",
@@ -1245,11 +1245,11 @@
     },
     "rct1ll.footpath_surface.tiles_green": {
         "reference-name": "Green and Brown Tiled Footpath",
-        "name": "Green and Brown Tiled Footpath"
+        "name": "Zöld-barna kőlapos járda"
     },
     "rct1ll.footpath_surface.tiles_red": {
         "reference-name": "Red and Brown Tiled Footpath",
-        "name": "Red and Brown Tiled Footpath"
+        "name": "Piros-barna kőlapos járda"
     },
     "rct1ll.ride.4_across_inverted_trains": {
         "reference-name": "4-across Inverted Roller Coaster Trains",
@@ -2867,11 +2867,11 @@
     },
     "rct2.ride.smc1": {
         "reference-name": "Mouse Cars",
-        "name": "Mouse Cars",
+        "name": "Egérkocsik",
         "reference-description": "Individual cars shaped like mice",
-        "description": "Individual cars shaped like mice",
+        "description": "Különálló kocsik egerek formájában",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct2.ride.smc2": {
         "reference-name": "Mine Cars",
@@ -3175,19 +3175,19 @@
     },
     "rct2.ride.wmouse": {
         "reference-name": "Mouse Cars",
-        "name": "Mouse Cars",
+        "name": "Egérkocsik",
         "reference-description": "Individual cars shaped like a mouse",
-        "description": "Individual cars shaped like a mouse",
+        "description": "Különálló kocsik egér formában",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct2.ride.wmspin": {
         "reference-name": "Spinning Mouse Cars",
-        "name": "Spinning Mouse Cars",
+        "name": "Forgó egérkocsik",
         "reference-description": "Mouse-shaped cars that keep gently spinning around to disorientate the riders",
-        "description": "Mouse-shaped cars that keep gently spinning around to disorientate the riders",
+        "description": "Egér formájú kocsik, amelyek gyengéden forognak, hogy összezavarják az utasokat",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct2.ride.wonton": {
         "reference-name": "Wonton Soup Stall",
