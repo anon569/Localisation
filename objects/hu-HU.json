@@ -5753,15 +5753,15 @@
     },
     "rct2tt.footpath_railings.balustrade": {
         "reference-name": "Balustrade",
-        "name": "Balustrade"
+        "name": "Balusztrád"
     },
     "rct2tt.footpath_railings.circuitboard": {
         "reference-name": "Circuit Board Railings",
-        "name": "Circuit Board Railings"
+        "name": "Áramköri lap korlát"
     },
     "rct2tt.footpath_railings.circuitboard_invisible": {
         "reference-name": "Sky Walk",
-        "name": "Sky Walk"
+        "name": "Légjárda"
     },
     "rct2tt.footpath_railings.medieval": {
         "reference-name": "Medieval Railings",
@@ -5769,7 +5769,7 @@
     },
     "rct2tt.footpath_railings.pavement": {
         "reference-name": "Iron Railings",
-        "name": "Iron Railings"
+        "name": "Vaskorlát"
     },
     "rct2tt.footpath_railings.rainbow": {
         "reference-name": "Rainbow Railings",
@@ -5781,19 +5781,19 @@
     },
     "rct2tt.footpath_surface.circuitboard": {
         "reference-name": "Circuit Footpath",
-        "name": "Circuit Footpath"
+        "name": "Áramköri lap járda"
     },
     "rct2tt.footpath_surface.medieval": {
         "reference-name": "Wooden Footpath",
-        "name": "Wooden Footpath"
+        "name": "Fa járda"
     },
     "rct2tt.footpath_surface.mosaic": {
         "reference-name": "Mosaic Footpath",
-        "name": "Mosaic Footpath"
+        "name": "Mozaikos járda"
     },
     "rct2tt.footpath_surface.pavement": {
         "reference-name": "Pavement",
-        "name": "Járda"
+        "name": "Kövezet"
     },
     "rct2tt.footpath_surface.queue_circuitboard": {
         "reference-name": "Circuit Queue",
@@ -5801,19 +5801,19 @@
     },
     "rct2tt.footpath_surface.queue_pavement": {
         "reference-name": "Pavement Queue",
-        "name": "Járda várósor"
+        "name": "Kövezetes várósor"
     },
     "rct2tt.footpath_surface.queue_rainbow": {
         "reference-name": "Rainbow Queue",
-        "name": "Rainbow Queue"
+        "name": "Szivárványos várósor"
     },
     "rct2tt.footpath_surface.rainbow": {
         "reference-name": "Rainbow Footpath",
-        "name": "Rainbow Footpath"
+        "name": "Szivárványos járda"
     },
     "rct2tt.footpath_surface.rocky": {
         "reference-name": "Rocky Footpath",
-        "name": "Rocky Footpath"
+        "name": "Kőjárda"
     },
     "rct2tt.park_entrance.1920sent": {
         "reference-name": "Roaring Twenties Park Entrance",
@@ -5821,23 +5821,23 @@
     },
     "rct2tt.park_entrance.futurent": {
         "reference-name": "Futuristic Park Entrance",
-        "name": "Futuristic Park Entrance"
+        "name": "Futurisztikus parkbejárat"
     },
     "rct2tt.park_entrance.gldyrent": {
         "reference-name": "Rock ’n’ Roll Park Entrance",
-        "name": "Rock ’n’ Roll Park Entrance"
+        "name": "Rock ’n’ Roll parkbejárat"
     },
     "rct2tt.park_entrance.jurasent": {
         "reference-name": "Prehistoric Entrance",
-        "name": "Prehistoric Entrance"
+        "name": "Kőkorszaki bejárat"
     },
     "rct2tt.park_entrance.medientr": {
         "reference-name": "Dark Age Entrance",
-        "name": "Dark Age Entrance"
+        "name": "Középkori bejárat"
     },
     "rct2tt.park_entrance.mythentr": {
         "reference-name": "Mythological Entrance",
-        "name": "Mythological Entrance"
+        "name": "Mitológiai bejárat"
     },
     "rct2tt.ride.1920racr": {
         "reference-name": "1920s Racing Cars",
@@ -6397,7 +6397,7 @@
     },
     "rct2tt.scenery_group.scgfutur": {
         "reference-name": "Future Theming",
-        "name": "Future Theming"
+        "name": "Jövő téma"
     },
     "rct2tt.scenery_group.scgjurra": {
         "reference-name": "Prehistoric Theming",
@@ -6441,19 +6441,19 @@
     },
     "rct2tt.scenery_large.alnstr08": {
         "reference-name": "Alien Structure Large",
-        "name": "Alien Structure Large"
+        "name": "Idegen építmény - nagy"
     },
     "rct2tt.scenery_large.alnstr09": {
         "reference-name": "Alien Structure Large",
-        "name": "Alien Structure Large"
+        "name": "Idegen építmény - nagy"
     },
     "rct2tt.scenery_large.alnstr10": {
         "reference-name": "Alien Structure Large",
-        "name": "Alien Structure Large"
+        "name": "Idegen építmény - nagy"
     },
     "rct2tt.scenery_large.alnstr11": {
         "reference-name": "Alien Skylight Large",
-        "name": "Alien Skylight Large"
+        "name": "Idegen fénykupola - nagy"
     },
     "rct2tt.scenery_large.artdec25": {
         "reference-name": "Art Deco Corner with Windows",
@@ -6469,7 +6469,7 @@
     },
     "rct2tt.scenery_large.ashnymph": {
         "reference-name": "Ash Tree with Nymphs",
-        "name": "Ash Tree with Nymphs"
+        "name": "Kőrisfa nimfákkal"
     },
     "rct2tt.scenery_large.bandbusx": {
         "reference-name": "Rock Band Tour Bus",
