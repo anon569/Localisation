@@ -6737,55 +6737,55 @@
     },
     "rct2tt.scenery_large.peramob1": {
         "reference-name": "Period Automobile",
-        "name": "Period Automobile"
+        "name": "Korabeli autó"
     },
     "rct2tt.scenery_large.peramob2": {
         "reference-name": "Period Automobile",
-        "name": "Period Automobile"
+        "name": "Korabeli autó"
     },
     "rct2tt.scenery_large.perdtk01": {
         "reference-name": "Period Truck",
-        "name": "Period Truck"
+        "name": "Korabeli teherautó"
     },
     "rct2tt.scenery_large.perdtk02": {
         "reference-name": "Period Truck",
-        "name": "Period Truck"
+        "name": "Korabeli teherautó"
     },
     "rct2tt.scenery_large.ploughxx": {
         "reference-name": "Plough",
-        "name": "Plough"
+        "name": "Eke"
     },
     "rct2tt.scenery_large.prdyacht": {
         "reference-name": "Period Sailing Yacht",
-        "name": "Period Sailing Yacht"
+        "name": "Korabeli vitorlásjacht"
     },
     "rct2tt.scenery_large.psntwl26": {
         "reference-name": "Dark Age Village Roof Piece",
-        "name": "Dark Age Village Roof Piece"
+        "name": "Középkori falu tetőelem"
     },
     "rct2tt.scenery_large.psntwl27": {
         "reference-name": "Dark Age Village Corner Roof Piece",
-        "name": "Dark Age Village Corner Roof Piece"
+        "name": "Középkori falu saroktetőelem"
     },
     "rct2tt.scenery_large.psntwl28": {
         "reference-name": "Dark Age Village Inverted Roof Piece",
-        "name": "Dark Age Village Inverted Roof Piece"
+        "name": "Középkori falu fordított tetőelem"
     },
     "rct2tt.scenery_large.rdmet2x2": {
         "reference-name": "Small Red Meteor Crater",
-        "name": "Small Red Meteor Crater"
+        "name": "Kis vörös meteorkráter"
     },
     "rct2tt.scenery_large.rdmet4x4": {
         "reference-name": "Large Red Meteor Crater",
-        "name": "Large Red Meteor Crater"
+        "name": "Nagy vörös meteorkráter"
     },
     "rct2tt.scenery_large.rdmeto01": {
         "reference-name": "Red Meteor Crater Corner",
-        "name": "Red Meteor Crater Corner"
+        "name": "Vörös meteorkráter sarok"
     },
     "rct2tt.scenery_large.rdmeto02": {
         "reference-name": "Red Meteor Crater Corner",
-        "name": "Red Meteor Crater Corner"
+        "name": "Vörös meteorkráter sarok"
     },
     "rct2tt.scenery_large.robncamp": {
         "reference-name": "Robin Hood’s Camp",
@@ -6793,7 +6793,7 @@
     },
     "rct2tt.scenery_large.romnc2x2": {
         "reference-name": "Roman Palace Corner Piece",
-        "name": "Roman Palace Corner Piece"
+        "name": "Római palota sarokelem"
     },
     "rct2tt.scenery_large.romne2x1": {
         "reference-name": "Roman Palace End Piece",
@@ -6809,7 +6809,7 @@
     },
     "rct2tt.scenery_large.romvc2x2": {
         "reference-name": "Roman Palace Corner Piece",
-        "name": "Roman Palace Corner Piece"
+        "name": "Római palota sarokelem"
     },
     "rct2tt.scenery_large.romve2x1": {
         "reference-name": "Roman Palace End Piece",
