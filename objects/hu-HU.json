@@ -125,11 +125,11 @@
     },
     "rct1.ride.bumper_boats": {
         "reference-name": "Bumper Boats",
-        "name": "Bumper Boats",
+        "name": "Vízidodzsem",
         "reference-description": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
-        "description": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
+        "description": "Apró, kör alakú gumicsónakok középre szerelt motorral, amelyet az utasok irányítanak",
         "reference-capacity": "2 passengers per boat",
-        "capacity": "2 passengers per boat"
+        "capacity": "2 utas csónakonként"
     },
     "rct1.ride.cat_cars": {
         "reference-name": "Cheshire Cats",
@@ -2141,11 +2141,11 @@
     },
     "rct2.ride.bboat": {
         "reference-name": "Bumper Boats",
-        "name": "Bumper Boats",
+        "name": "Vízidodzsem",
         "reference-description": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
-        "description": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
+        "description": "Apró, kör alakú gumicsónakok középre szerelt motorral, amelyet az utasok irányítanak",
         "reference-capacity": "2 passengers per boat",
-        "capacity": "2 passengers per boat"
+        "capacity": "2 utas csónakonként"
     },
     "rct2.ride.bmair": {
         "reference-name": "Flying Roller Coaster Trains",
@@ -4145,43 +4145,43 @@
     },
     "rct2.scenery_small.tac": {
         "reference-name": "Arizona Cypress Tree",
-        "name": "Arizona Cypress Tree"
+        "name": "Arizonai ciprus"
     },
     "rct2.scenery_small.tal": {
         "reference-name": "Alligator Shaped Tree",
-        "name": "Alligator Shaped Tree"
+        "name": "Aligátor alakú fa"
     },
     "rct2.scenery_small.tap": {
         "reference-name": "Aleppo Pine Tree",
-        "name": "Aleppo Pine Tree"
+        "name": "Aleppói fenyő"
     },
     "rct2.scenery_small.tas": {
         "reference-name": "Aspen Tree",
-        "name": "Aspen Tree"
+        "name": "Nyárfa"
     },
     "rct2.scenery_small.tas1": {
         "reference-name": "Candy Tree",
-        "name": "Candy Tree"
+        "name": "Cukorfa"
     },
     "rct2.scenery_small.tas2": {
         "reference-name": "Candy Tree",
-        "name": "Candy Tree"
+        "name": "Cukorfa"
     },
     "rct2.scenery_small.tas3": {
         "reference-name": "Candy Tree",
-        "name": "Candy Tree"
+        "name": "Cukorfa"
     },
     "rct2.scenery_small.tas4": {
         "reference-name": "Candy",
-        "name": "Candy"
+        "name": "Cukor"
     },
     "rct2.scenery_small.tb1": {
         "reference-name": "White Bishop",
-        "name": "White Bishop"
+        "name": "Világos futó"
     },
     "rct2.scenery_small.tb2": {
         "reference-name": "Black Bishop",
-        "name": "Black Bishop"
+        "name": "Sötét futó"
     },
     "rct2.scenery_small.tbc": {
         "reference-name": "Cactus",
@@ -4189,19 +4189,19 @@
     },
     "rct2.scenery_small.tbn": {
         "reference-name": "Bone",
-        "name": "Bone"
+        "name": "Csont"
     },
     "rct2.scenery_small.tbn1": {
         "reference-name": "Bones",
-        "name": "Bones"
+        "name": "Csontok"
     },
     "rct2.scenery_small.tbp": {
         "reference-name": "Black Poplar Tree",
-        "name": "Black Poplar Tree"
+        "name": "Fekete nyár"
     },
     "rct2.scenery_small.tbr": {
         "reference-name": "Bulrushes",
-        "name": "Bulrushes"
+        "name": "Nád"
     },
     "rct2.scenery_small.tbr1": {
         "reference-name": "Barrel",
@@ -4221,59 +4221,59 @@
     },
     "rct2.scenery_small.tbw": {
         "reference-name": "Broken Wheel",
-        "name": "Broken Wheel"
+        "name": "Törött kerék"
     },
     "rct2.scenery_small.tcb": {
         "reference-name": "Club Shaped Tree",
-        "name": "Club Shaped Tree"
+        "name": "Treff alakú fa"
     },
     "rct2.scenery_small.tcc": {
         "reference-name": "Chinese Cedar Tree",
-        "name": "Chinese Cedar Tree"
+        "name": "Kínai túnafa"
     },
     "rct2.scenery_small.tcd": {
         "reference-name": "Cauldron",
-        "name": "Cauldron"
+        "name": "Üst"
     },
     "rct2.scenery_small.tce": {
         "reference-name": "Camperdown Elm Tree",
-        "name": "Camperdown Elm Tree"
+        "name": "Csüngő szil"
     },
     "rct2.scenery_small.tcf": {
         "reference-name": "Caucasian Fir Tree",
-        "name": "Caucasian Fir Tree"
+        "name": "Kaukázusi jegenyefenyő"
     },
     "rct2.scenery_small.tcfs": {
         "reference-name": "Snow-covered Caucasian Fir Tree",
-        "name": "Snow-covered Caucasian Fir Tree"
+        "name": "Hóval borított kaukázusi jegenyefenyő"
     },
     "rct2.scenery_small.tcj": {
         "reference-name": "Common Juniper Tree",
-        "name": "Common Juniper Tree"
+        "name": "Közönséges boróka"
     },
     "rct2.scenery_small.tck": {
         "reference-name": "Clock",
-        "name": "Clock"
+        "name": "Óra"
     },
     "rct2.scenery_small.tcl": {
         "reference-name": "Cedar of Lebanon Tree",
-        "name": "Cedar of Lebanon Tree"
+        "name": "Libanoni cédrus"
     },
     "rct2.scenery_small.tcn": {
         "reference-name": "Cannon",
-        "name": "Cannon"
+        "name": "Ágyú"
     },
     "rct2.scenery_small.tco": {
         "reference-name": "Common Oak Tree",
-        "name": "Common Oak Tree"
+        "name": "Kocsányos tölgy"
     },
     "rct2.scenery_small.tcrp": {
         "reference-name": "Corsican Pine Tree",
-        "name": "Corsican Pine Tree"
+        "name": "Feketefenyő"
     },
     "rct2.scenery_small.tct": {
         "reference-name": "Cabbage Tree",
-        "name": "Cabbage Tree"
+        "name": "Déli bunkóliliom"
     },
     "rct2.scenery_small.tct1": {
         "reference-name": "Castle Tower",
@@ -4285,15 +4285,15 @@
     },
     "rct2.scenery_small.tcy": {
         "reference-name": "Common Yew Tree",
-        "name": "Common Yew Tree"
+        "name": "Közönséges tiszafa"
     },
     "rct2.scenery_small.tdf": {
         "reference-name": "Dolphin Fountain",
-        "name": "Dolphin Fountain"
+        "name": "Delfines szökőkút"
     },
     "rct2.scenery_small.tdm": {
         "reference-name": "Diamond Shaped Tree",
-        "name": "Diamond Shaped Tree"
+        "name": "Gyémánt alakú fa"
     },
     "rct2.scenery_small.tdn4": {
         "reference-name": "Dinosaur",
@@ -4305,19 +4305,19 @@
     },
     "rct2.scenery_small.tdt1": {
         "reference-name": "Dead Tree",
-        "name": "Dead Tree"
+        "name": "Kiszáradt fa"
     },
     "rct2.scenery_small.tdt2": {
         "reference-name": "Dead Tree",
-        "name": "Dead Tree"
+        "name": "Kiszáradt fa"
     },
     "rct2.scenery_small.tdt3": {
         "reference-name": "Dead Tree",
-        "name": "Dead Tree"
+        "name": "Kiszáradt fa"
     },
     "rct2.scenery_small.teepee1": {
         "reference-name": "Tepee",
-        "name": "Tepee"
+        "name": "Tipi"
     },
     "rct2.scenery_small.tef": {
         "reference-name": "Elephant Fountain",
@@ -4325,7 +4325,7 @@
     },
     "rct2.scenery_small.tel": {
         "reference-name": "European Larch Tree",
-        "name": "European Larch Tree"
+        "name": "Európai vörösfenyő"
     },
     "rct2.scenery_small.ten": {
         "reference-name": "Cleopatra’s Needle",
@@ -4349,11 +4349,11 @@
     },
     "rct2.scenery_small.tf1": {
         "reference-name": "Fruit Tree",
-        "name": "Fruit Tree"
+        "name": "Gyümölcsfa"
     },
     "rct2.scenery_small.tf2": {
         "reference-name": "Fruit Tree",
-        "name": "Fruit Tree"
+        "name": "Gyümölcsfa"
     },
     "rct2.scenery_small.tg1": {
         "reference-name": "Gardens",
@@ -4473,19 +4473,19 @@
     },
     "rct2.scenery_small.tgh1": {
         "reference-name": "Statue",
-        "name": "Statue"
+        "name": "Szobor"
     },
     "rct2.scenery_small.tgh2": {
         "reference-name": "Statue",
-        "name": "Statue"
+        "name": "Szobor"
     },
     "rct2.scenery_small.tghc": {
         "reference-name": "Golden Hinoki Cypress Tree",
-        "name": "Golden Hinoki Cypress Tree"
+        "name": "Hinoki hamisciprus"
     },
     "rct2.scenery_small.tghc2": {
         "reference-name": "Hiba Tree",
-        "name": "Hiba Tree"
+        "name": "Hibatuja"
     },
     "rct2.scenery_small.tgs": {
         "reference-name": "Giraffe Statue",
@@ -4509,7 +4509,7 @@
     },
     "rct2.scenery_small.th1": {
         "reference-name": "Canary Palm Tree",
-        "name": "Canary Palm Tree"
+        "name": "Kanári datolyapálma"
     },
     "rct2.scenery_small.th2": {
         "reference-name": "Palm Tree",
@@ -4517,7 +4517,7 @@
     },
     "rct2.scenery_small.thl": {
         "reference-name": "Honey Locust Tree",
-        "name": "Honey Locust Tree"
+        "name": "Lepényfa"
     },
     "rct2.scenery_small.thrs": {
         "reference-name": "Horseman Statue",
@@ -4525,19 +4525,19 @@
     },
     "rct2.scenery_small.tht": {
         "reference-name": "Heart Shaped Tree",
-        "name": "Heart Shaped Tree"
+        "name": "Szív alakú fa"
     },
     "rct2.scenery_small.tic": {
         "reference-name": "Incense Cedar Tree",
-        "name": "Incense Cedar Tree"
+        "name": "Gyantásciprus"
     },
     "rct2.scenery_small.tig": {
         "reference-name": "Igloo",
-        "name": "Igloo"
+        "name": "Iglu"
     },
     "rct2.scenery_small.titc": {
         "reference-name": "Italian Cypress Tree",
-        "name": "Italian Cypress Tree"
+        "name": "Európai ciprus"
     },
     "rct2.scenery_small.tjb1": {
         "reference-name": "Bush",
@@ -4557,15 +4557,15 @@
     },
     "rct2.scenery_small.tjf": {
         "reference-name": "Flower",
-        "name": "Flower"
+        "name": "Virág"
     },
     "rct2.scenery_small.tjp1": {
         "reference-name": "Plant",
-        "name": "Plant"
+        "name": "Növény"
     },
     "rct2.scenery_small.tjp2": {
         "reference-name": "Plant",
-        "name": "Plant"
+        "name": "Növény"
     },
     "rct2.scenery_small.tjt1": {
         "reference-name": "Tree",
@@ -4653,15 +4653,15 @@
     },
     "rct2.scenery_small.tmbj": {
         "reference-name": "Meyer’s Blue Juniper Tree",
-        "name": "Meyer’s Blue Juniper Tree"
+        "name": "Kék himalájai boróka"
     },
     "rct2.scenery_small.tmc": {
         "reference-name": "Monterey Cypress Tree",
-        "name": "Monterey Cypress Tree"
+        "name": "Monterey-ciprus"
     },
     "rct2.scenery_small.tmg": {
         "reference-name": "Magnolia Tree",
-        "name": "Magnolia Tree"
+        "name": "Liliomfa"
     },
     "rct2.scenery_small.tmj": {
         "reference-name": "Junk",
@@ -4705,11 +4705,11 @@
     },
     "rct2.scenery_small.tmp": {
         "reference-name": "Monkey-Puzzle Tree",
-        "name": "Monkey-Puzzle Tree"
+        "name": "Chilei araukária"
     },
     "rct2.scenery_small.tms1": {
         "reference-name": "Toadstool",
-        "name": "Toadstool"
+        "name": "Mérgesgomba"
     },
     "rct2.scenery_small.tmw": {
         "reference-name": "Wheels",
@@ -4717,15 +4717,15 @@
     },
     "rct2.scenery_small.tmzp": {
         "reference-name": "Montezuma Pine Tree",
-        "name": "Montezuma Pine Tree"
+        "name": "Montezuma-fenyő"
     },
     "rct2.scenery_small.tns": {
         "reference-name": "Norway Spruce Tree",
-        "name": "Norway Spruce Tree"
+        "name": "Közönséges lucfenyő"
     },
     "rct2.scenery_small.tnss": {
         "reference-name": "Snow-covered Norway Spruce Tree",
-        "name": "Snow-covered Norway Spruce Tree"
+        "name": "Hóval borított közönséges lucfenyő"
     },
     "rct2.scenery_small.tntroof1": {
         "reference-name": "Canvas Roof",
@@ -4813,19 +4813,19 @@
     },
     "rct2.scenery_small.trf": {
         "reference-name": "Red Fir Tree",
-        "name": "Red Fir Tree"
+        "name": "Óriástobozú jegenyefenyő"
     },
     "rct2.scenery_small.trf2": {
         "reference-name": "Red Fir Tree",
-        "name": "Red Fir Tree"
+        "name": "Óriástobozú jegenyefenyő"
     },
     "rct2.scenery_small.trf3": {
         "reference-name": "Snow-covered Red Fir Tree",
-        "name": "Snow-covered Red Fir Tree"
+        "name": "Hóval borított óriástobozú jegenyefenyő"
     },
     "rct2.scenery_small.trfs": {
         "reference-name": "Snow-covered Red Fir Tree",
-        "name": "Snow-covered Red Fir Tree"
+        "name": "Hóval borított óriástobozú jegenyefenyő"
     },
     "rct2.scenery_small.trms": {
         "reference-name": "Roman Statue",
@@ -4973,23 +4973,23 @@
     },
     "rct2.scenery_small.tst1": {
         "reference-name": "Toadstool",
-        "name": "Toadstool"
+        "name": "Mérgesgomba"
     },
     "rct2.scenery_small.tst2": {
         "reference-name": "Toadstool",
-        "name": "Toadstool"
+        "name": "Mérgesgomba"
     },
     "rct2.scenery_small.tst3": {
         "reference-name": "Toadstool",
-        "name": "Toadstool"
+        "name": "Mérgesgomba"
     },
     "rct2.scenery_small.tst4": {
         "reference-name": "Toadstool",
-        "name": "Toadstool"
+        "name": "Mérgesgomba"
     },
     "rct2.scenery_small.tst5": {
         "reference-name": "Toadstool",
-        "name": "Toadstool"
+        "name": "Mérgesgomba"
     },
     "rct2.scenery_small.tstd": {
         "reference-name": "Dolphins Statue",
@@ -7129,15 +7129,15 @@
     },
     "rct2tt.scenery_small.drgnattk": {
         "reference-name": "Dragon Attacking",
-        "name": "Dragon Attacking"
+        "name": "Támadó sárkány"
     },
     "rct2tt.scenery_small.elecfen1": {
         "reference-name": "Electric Fence Corner Piece",
-        "name": "Electric Fence Corner Piece"
+        "name": "Elektromos kerítés sarokelem"
     },
     "rct2tt.scenery_small.elecfen2": {
         "reference-name": "Electric Fence",
-        "name": "Electric Fence"
+        "name": "Elektromos kerítés"
     },
     "rct2tt.scenery_small.elecfen3": {
         "reference-name": "Electric Fence with Light",
@@ -7145,11 +7145,11 @@
     },
     "rct2tt.scenery_small.elecfen4": {
         "reference-name": "Electric Fence Broken",
-        "name": "Electric Fence Broken"
+        "name": "Elektromos kerítés - sérült"
     },
     "rct2tt.scenery_small.elecfen5": {
         "reference-name": "Electric Fence Inverted Corner Piece",
-        "name": "Electric Fence Inverted Corner Piece"
+        "name": "Elektromos kerítés fordított sarokelem"
     },
     "rct2tt.scenery_small.evalien1": {
         "reference-name": "Animatronic Evil Alien",
@@ -7165,7 +7165,7 @@
     },
     "rct2tt.scenery_small.fircanon": {
         "reference-name": "Animatronic Firing Cannon",
-        "name": "Animatronic Firing Cannon"
+        "name": "Animatronikus tüzelő ágyú"
     },
     "rct2tt.scenery_small.firemanx": {
         "reference-name": "Animatronic Fireman",
@@ -9453,23 +9453,23 @@
     },
     "rct2ww.scenery_large.icefor01": {
         "reference-name": "Ice Formation",
-        "name": "Ice Formation"
+        "name": "Jégképződmény"
     },
     "rct2ww.scenery_large.icefor02": {
         "reference-name": "Ice Formation",
-        "name": "Ice Formation"
+        "name": "Jégképződmény"
     },
     "rct2ww.scenery_large.indianst": {
         "reference-name": "Native American",
-        "name": "Native American"
+        "name": "Amerikai őslakos"
     },
     "rct2ww.scenery_large.largeju1": {
         "reference-name": "Large Rainforest Tree",
-        "name": "Large Rainforest Tree"
+        "name": "Nagy esőerdei fa"
     },
     "rct2ww.scenery_large.lincolns": {
         "reference-name": "Washington Statue",
-        "name": "Washington Statue"
+        "name": "Washington-szobor"
     },
     "rct2ww.scenery_large.mbskyr01": {
         "reference-name": "Skyscraper Roof Piece",
@@ -9481,7 +9481,7 @@
     },
     "rct2ww.scenery_large.ovrgrwnt": {
         "reference-name": "Old Overgrown Tree",
-        "name": "Old Overgrown Tree"
+        "name": "Régi benőtt fa"
     },
     "rct2ww.scenery_large.pagodam": {
         "reference-name": "Pagoda",
@@ -9521,7 +9521,7 @@
     },
     "rct2ww.scenery_large.redwood": {
         "reference-name": "Redwood Tree",
-        "name": "Redwood Tree"
+        "name": "Mamutfenyő"
     },
     "rct2ww.scenery_large.rkreml08": {
         "reference-name": "Kremlin Large Tower Base",
@@ -9557,7 +9557,7 @@
     },
     "rct2ww.scenery_large.sputnik": {
         "reference-name": "Sputnik",
-        "name": "Sputnik"
+        "name": "Szputnyik"
     },
     "rct2ww.scenery_large.sunken": {
         "reference-name": "Sunken Ship",
@@ -9585,19 +9585,19 @@
     },
     "rct2ww.scenery_small.1x1atre2": {
         "reference-name": "Vine Tree",
-        "name": "Vine Tree"
+        "name": "Liánfa"
     },
     "rct2ww.scenery_small.1x1atree": {
         "reference-name": "Low Bush",
-        "name": "Low Bush"
+        "name": "Alacsony bokor"
     },
     "rct2ww.scenery_small.1x1brang": {
         "reference-name": "Boomerang",
-        "name": "Boomerang"
+        "name": "Bumeráng"
     },
     "rct2ww.scenery_small.1x1didge": {
         "reference-name": "Digeridoo",
-        "name": "Digeridoo"
+        "name": "Didzseridu"
     },
     "rct2ww.scenery_small.1x1emuxx": {
         "reference-name": "Emu",
@@ -9605,11 +9605,11 @@
     },
     "rct2ww.scenery_small.1x1jugt2": {
         "reference-name": "Small Rainforest Tree 1",
-        "name": "Small Rainforest Tree 1"
+        "name": "Kis esőerdei fa 1"
     },
     "rct2ww.scenery_small.1x1jugt3": {
         "reference-name": "Small Rainforest Tree 2",
-        "name": "Small Rainforest Tree 2"
+        "name": "Kis esőerdei fa 2"
     },
     "rct2ww.scenery_small.1x1kanga": {
         "reference-name": "Kangaroo",
@@ -10193,7 +10193,7 @@
     },
     "rct2ww.scenery_small.sbh1tepe": {
         "reference-name": "Tee Pee",
-        "name": "Tee Pee"
+        "name": "Tipi"
     },
     "rct2ww.scenery_small.sbh1wgwh": {
         "reference-name": "Wagon Wheel",
