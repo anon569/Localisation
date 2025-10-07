@@ -80,8 +80,8 @@
         "name": "Nincs bejárat"
     },
     "openrct2.station.noplatformnoentrance": {
-        "reference-name": "No entrance, no platform",
-        "name": "Nincs bejárat, nincs állomás"
+        "reference-name": "No entrance, no platfrom",
+        "name": "Nincs bejárat, nincs peron"
     },
     "openrct2.terrain_surface.void": {
         "reference-name": "Void",
@@ -363,17 +363,17 @@
     },
     "rct1.ride.suspended_swinging_aeroplane_cars": {
         "reference-name": "Suspended Swinging Aeroplane Cars",
-        "name": "Felfüggesztett lengő repülőgép kocsik",
+        "name": "Függesztett lengő repülőgép kocsik",
         "reference-description": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Felfüggesztett hullámvasút-szerelvények, repülőgép alakú kocsikkal, amelyek szabadon lengnek a kanyarokban",
+        "description": "Függesztett hullámvasút-szerelvények, repülőgép alakú kocsikkal, amelyek szabadon lengnek a kanyarokban",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 utas kocsinként"
     },
     "rct1.ride.suspended_swinging_cars": {
         "reference-name": "Suspended Swinging Cars",
-        "name": "Felfüggesztett lengő kocsik",
+        "name": "Függesztett lengő kocsik",
         "reference-description": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
-        "description": "Felfüggesztett hullámvasút-szerelvények, kocsikkal, amelyek szabadon lengnek a kanyarokban",
+        "description": "Függesztett hullámvasút-szerelvények, kocsikkal, amelyek szabadon lengnek a kanyarokban",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 utas kocsinként"
     },
@@ -965,9 +965,9 @@
     },
     "rct1aa.scenario_meta.magic_quarters": {
         "reference-name": "Magic Quarters",
-        "name": "Mágikus Negyedek",
+        "name": "Varázsnegyedek",
         "reference-park_name": "Magic Quarters",
-        "park_name": "Mágikus Negyedek",
+        "park_name": "Varázsnegyedek",
         "reference-details": "A large area of land has been cleared and partially themed ready for you to develop into a landscaped theme park",
         "details": "Egy nagy területet megtisztítottak és részben tematizáltak, így készen áll arra, hogy parkosított vidámparkká alakítsd"
     },
@@ -1241,7 +1241,7 @@
     },
     "rct1ll.footpath_railings.space": {
         "reference-name": "Space Style Railings (Grey)",
-        "name": "Space Style Railings (Grey)"
+        "name": "Űrstílusú korlát (szürke)"
     },
     "rct1ll.footpath_surface.tiles_green": {
         "reference-name": "Green and Brown Tiled Footpath",
@@ -1253,11 +1253,11 @@
     },
     "rct1ll.ride.4_across_inverted_trains": {
         "reference-name": "4-across Inverted Roller Coaster Trains",
-        "name": "4-across Inverted Roller Coaster Trains",
+        "name": "Négyüléses függővasút-vonatok",
         "reference-description": "Suspended trains in which riders sit in rows",
-        "description": "Suspended trains in which riders sit in rows",
+        "description": "Felüggesztett vonatok, amelyekben az utasok sorokban ülnek",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct1ll.ride.air_powered_trains": {
         "reference-name": "Air Powered Vertical Coaster Trains",
@@ -2089,9 +2089,9 @@
     },
     "rct2.ride.arrsw2": {
         "reference-name": "Suspended Swinging Aeroplane Cars",
-        "name": "Felfüggesztett lengő repülőgép kocsik",
+        "name": "Függesztett lengő repülőgép kocsik",
         "reference-description": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Felfüggesztett hullámvasút-szerelvények, repülőgép alakú kocsikkal, amelyek szabadon lengnek a kanyarokban",
+        "description": "Függesztett hullámvasút-szerelvények, repülőgép alakú kocsikkal, amelyek szabadon lengnek a kanyarokban",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 utas kocsinként"
     },
@@ -2651,11 +2651,11 @@
     },
     "rct2.ride.nemt": {
         "reference-name": "4-across Inverted Roller Coaster Trains",
-        "name": "4-across Inverted Roller Coaster Trains",
+        "name": "Négyüléses függővasút-vonatok",
         "reference-description": "Suspended trains in which riders sit in rows",
-        "description": "Suspended trains in which riders sit in rows",
+        "description": "Felüggesztett vonatok, amelyekben az utasok sorokban ülnek",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct2.ride.nrl": {
         "reference-name": "Steam Trains",
@@ -4441,31 +4441,31 @@
     },
     "rct2.scenery_small.tgc1": {
         "reference-name": "Sculpture",
-        "name": "Sculpture"
+        "name": "Szobor"
     },
     "rct2.scenery_small.tgc2": {
         "reference-name": "Sculpture",
-        "name": "Sculpture"
+        "name": "Szobor"
     },
     "rct2.scenery_small.tge1": {
         "reference-name": "Geometric Sculpture",
-        "name": "Geometric Sculpture"
+        "name": "Geometrikus szobor"
     },
     "rct2.scenery_small.tge2": {
         "reference-name": "Geometric Sculpture",
-        "name": "Geometric Sculpture"
+        "name": "Geometrikus szobor"
     },
     "rct2.scenery_small.tge3": {
         "reference-name": "Geometric Sculpture",
-        "name": "Geometric Sculpture"
+        "name": "Geometrikus szobor"
     },
     "rct2.scenery_small.tge4": {
         "reference-name": "Geometric Sculpture",
-        "name": "Geometric Sculpture"
+        "name": "Geometrikus szobor"
     },
     "rct2.scenery_small.tge5": {
         "reference-name": "Geometric Sculpture",
-        "name": "Geometric Sculpture"
+        "name": "Geometrikus szobor"
     },
     "rct2.scenery_small.tgg": {
         "reference-name": "Gong",
@@ -4489,23 +4489,23 @@
     },
     "rct2.scenery_small.tgs": {
         "reference-name": "Giraffe Statue",
-        "name": "Giraffe Statue"
+        "name": "Zsiráfszobor"
     },
     "rct2.scenery_small.tgs1": {
         "reference-name": "Grave Stone",
-        "name": "Grave Stone"
+        "name": "Sírkő"
     },
     "rct2.scenery_small.tgs2": {
         "reference-name": "Grave Stone",
-        "name": "Grave Stone"
+        "name": "Sírkő"
     },
     "rct2.scenery_small.tgs3": {
         "reference-name": "Grave Stone",
-        "name": "Grave Stone"
+        "name": "Sírkő"
     },
     "rct2.scenery_small.tgs4": {
         "reference-name": "Grave Stone",
-        "name": "Grave Stone"
+        "name": "Sírkő"
     },
     "rct2.scenery_small.th1": {
         "reference-name": "Canary Palm Tree",
@@ -4521,7 +4521,7 @@
     },
     "rct2.scenery_small.thrs": {
         "reference-name": "Horseman Statue",
-        "name": "Horseman Statue"
+        "name": "Lovas szobor"
     },
     "rct2.scenery_small.tht": {
         "reference-name": "Heart Shaped Tree",
@@ -4593,19 +4593,19 @@
     },
     "rct2.scenery_small.tk1": {
         "reference-name": "White Knight",
-        "name": "White Knight"
+        "name": "Világos huszár"
     },
     "rct2.scenery_small.tk2": {
         "reference-name": "Black Knight",
-        "name": "Black Knight"
+        "name": "Sötét huszár"
     },
     "rct2.scenery_small.tk3": {
         "reference-name": "White King",
-        "name": "White King"
+        "name": "Világos király"
     },
     "rct2.scenery_small.tk4": {
         "reference-name": "Black King",
-        "name": "Black King"
+        "name": "Sötét király"
     },
     "rct2.scenery_small.tl0": {
         "reference-name": "Tree",
@@ -4625,15 +4625,15 @@
     },
     "rct2.scenery_small.tlc": {
         "reference-name": "Lawson Cypress Tree",
-        "name": "Lawson Cypress Tree"
+        "name": "Oregoni hamisciprus"
     },
     "rct2.scenery_small.tlp": {
         "reference-name": "Lombardy Poplar Tree",
-        "name": "Lombardy Poplar Tree"
+        "name": "Fekete nyár"
     },
     "rct2.scenery_small.tly": {
         "reference-name": "Lily",
-        "name": "Lily"
+        "name": "Liliom"
     },
     "rct2.scenery_small.tm0": {
         "reference-name": "Tree",
@@ -4665,43 +4665,43 @@
     },
     "rct2.scenery_small.tmj": {
         "reference-name": "Junk",
-        "name": "Junk"
+        "name": "Kacatok"
     },
     "rct2.scenery_small.tml": {
         "reference-name": "Logs",
-        "name": "Logs"
+        "name": "Rönkök"
     },
     "rct2.scenery_small.tmm1": {
         "reference-name": "Graveyard Monument",
-        "name": "Graveyard Monument"
+        "name": "Temetői emlékmű"
     },
     "rct2.scenery_small.tmm2": {
         "reference-name": "Graveyard Monument",
-        "name": "Graveyard Monument"
+        "name": "Temetői emlékmű"
     },
     "rct2.scenery_small.tmm3": {
         "reference-name": "Graveyard Monument",
-        "name": "Graveyard Monument"
+        "name": "Temetői emlékmű"
     },
     "rct2.scenery_small.tmo1": {
         "reference-name": "Martian Object",
-        "name": "Martian Object"
+        "name": "Marsi objektum"
     },
     "rct2.scenery_small.tmo2": {
         "reference-name": "Martian Object",
-        "name": "Martian Object"
+        "name": "Marsi objektum"
     },
     "rct2.scenery_small.tmo3": {
         "reference-name": "Martian Object",
-        "name": "Martian Object"
+        "name": "Marsi objektum"
     },
     "rct2.scenery_small.tmo4": {
         "reference-name": "Martian Object",
-        "name": "Martian Object"
+        "name": "Marsi objektum"
     },
     "rct2.scenery_small.tmo5": {
         "reference-name": "Martian Object",
-        "name": "Martian Object"
+        "name": "Marsi objektum"
     },
     "rct2.scenery_small.tmp": {
         "reference-name": "Monkey-Puzzle Tree",
@@ -4713,7 +4713,7 @@
     },
     "rct2.scenery_small.tmw": {
         "reference-name": "Wheels",
-        "name": "Wheels"
+        "name": "Kerekek"
     },
     "rct2.scenery_small.tmzp": {
         "reference-name": "Montezuma Pine Tree",
@@ -4729,7 +4729,7 @@
     },
     "rct2.scenery_small.tntroof1": {
         "reference-name": "Canvas Roof",
-        "name": "Canvas Roof"
+        "name": "Vászontető"
     },
     "rct2.scenery_small.toh1": {
         "reference-name": "House",
@@ -4777,11 +4777,11 @@
     },
     "rct2.scenery_small.tp1": {
         "reference-name": "White Pawn",
-        "name": "White Pawn"
+        "name": "Világos gyalog"
     },
     "rct2.scenery_small.tp2": {
         "reference-name": "Black Pawn",
-        "name": "Black Pawn"
+        "name": "Sötét gyalog"
     },
     "rct2.scenery_small.tpm": {
         "reference-name": "Palm Tree",
@@ -4789,23 +4789,23 @@
     },
     "rct2.scenery_small.tq1": {
         "reference-name": "White Queen",
-        "name": "White Queen"
+        "name": "Világos királynő"
     },
     "rct2.scenery_small.tq2": {
         "reference-name": "Black Queen",
-        "name": "Black Queen"
+        "name": "Sötét királynő"
     },
     "rct2.scenery_small.tqf": {
         "reference-name": "Cupid Fountains",
-        "name": "Cupid Fountains"
+        "name": "Kupidós szökőkutak"
     },
     "rct2.scenery_small.tr1": {
         "reference-name": "White Rook",
-        "name": "White Rook"
+        "name": "Világos bástya"
     },
     "rct2.scenery_small.tr2": {
         "reference-name": "Black Rook",
-        "name": "Black Rook"
+        "name": "Sötét bástya"
     },
     "rct2.scenery_small.trc": {
         "reference-name": "Roman Column",
@@ -4869,7 +4869,7 @@
     },
     "rct2.scenery_small.tsb": {
         "reference-name": "Silver Birch Tree",
-        "name": "Silver Birch Tree"
+        "name": "Közönséges nyír"
     },
     "rct2.scenery_small.tsc": {
         "reference-name": "Cactus",
@@ -4945,7 +4945,7 @@
     },
     "rct2.scenery_small.tsnb": {
         "reference-name": "Snowball",
-        "name": "Snowball"
+        "name": "Hógolyó"
     },
     "rct2.scenery_small.tsnc": {
         "reference-name": "Log Cabin",
@@ -5871,7 +5871,7 @@
         "reference-name": "Battering Ram Trains",
         "name": "Faltörő kos vonatok",
         "reference-description": "Compact roller coaster trains with cars with in-line seating, themed to look like battering rams from the Dark Age",
-        "description": "Kompakt hullámvasútvonatok, egymás utáni ülésekkel ellátott kocsikkal, amelyek témája a sötét középkor faltörő kosait idézi",
+        "description": "Kompakt hullámvasútvonatok, egymás utáni ülésekkel ellátott kocsikkal, amelyek témája a középkor faltörő kosait idézi",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 utas kocsinként"
     },
@@ -6179,9 +6179,9 @@
     },
     "rct2tt.ride.seaplane": {
         "reference-name": "Suspended Seaplane Cars",
-        "name": "Felfüggesztett repülőgépkocsik",
+        "name": "Függesztett repülőgépkocsik",
         "reference-description": "Suspended roller coaster trains consisting of seaplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Felfüggesztett hullámvasútvonatok, amelyek repülőgép alakú kocsikból állnak, és szabadon lenghetnek, amikor a vonat kanyarodik",
+        "description": "Függesztett hullámvasútvonatok, amelyek repülőgép alakú kocsikból állnak, és szabadon lenghetnek, amikor a vonat kanyarodik",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 utas kocsinként"
     },
@@ -6235,7 +6235,7 @@
         "reference-name": "Trebuchet Ride",
         "name": "Kőhajító játék",
         "reference-description": "Passengers ride in a carriage suspended by two large arms, based on a Dark Age siege weapon",
-        "description": "Az utasok egy sötét középkori ostromfegyveren alapuló, két nagy karral felfüggesztett kocsiban utaznak",
+        "description": "Az utasok egy középkori ostromfegyveren alapuló, két nagy karral függesztett kocsiban utaznak",
         "reference-capacity": "8 passengers",
         "capacity": "8 utas"
     },
@@ -6293,7 +6293,7 @@
         "reference-park_name": "Cliffside Castle",
         "park_name": "Sziklaoldali Vár",
         "reference-details": "Local members of the battle re-enactment society are rather serious about their hobby. They’ve entrusted you with the job of constructing a Dark Age theme park on the grounds of Cliffside Castle.",
-        "details": "A hagyományörző egyesület helyi tagjai komolyan veszik az emlékcsatákat. Rád bízták a feladatot, hogy építs egy sötét középkor témájú parkot a Sziklaoldali Vár területén."
+        "details": "A hagyományörző egyesület helyi tagjai komolyan veszik az emlékcsatákat. Rád bízták a feladatot, hogy építs egy középkori témájú parkot a Sziklaoldali Vár területén."
     },
     "rct2tt.scenario_meta.coastersaurus": {
         "reference-name": "Coastersaurus",
