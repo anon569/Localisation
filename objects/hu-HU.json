@@ -2345,15 +2345,15 @@
     },
     "rct2.ride.dough": {
         "reference-name": "Doughnut Shop",
-        "name": "Doughnut Shop",
+        "name": "Fánkozó",
         "reference-description": "A stall selling ring-shaped doughnuts",
-        "description": "A stall selling ring-shaped doughnuts"
+        "description": "Karika alakú fánkokat áruló bódé."
     },
     "rct2.ride.drnks": {
         "reference-name": "Drinks Stall",
-        "name": "Drinks Stall",
+        "name": "Üdítős bódé",
         "reference-description": "A can-shaped stall selling fizzy drinks",
-        "description": "A can-shaped stall selling fizzy drinks"
+        "description": "Aludoboz alakú alakú bódé, ahol szénsavas italokat árulnak."
     },
     "rct2.ride.enterp": {
         "reference-name": "Enterprise",
@@ -2365,9 +2365,9 @@
     },
     "rct2.ride.faid1": {
         "reference-name": "First Aid Room",
-        "name": "First Aid Room",
+        "name": "Elsősegély szoba",
         "reference-description": "A place for sick guests to go for faster recovery",
-        "description": "A place for sick guests to go for faster recovery"
+        "description": "Egy hely, ahová a beteg vendégek mehetnek, hogy gyorsabban felépüljenek."
     },
     "rct2.ride.frnood": {
         "reference-name": "Fried Rice Noodles Stall",
@@ -2391,11 +2391,11 @@
     },
     "rct2.ride.fwh1": {
         "reference-name": "Ferris Wheel",
-        "name": "Ferris Wheel",
+        "name": "Óriáskerék",
         "reference-description": "Rotating big wheel with open chairs",
-        "description": "Rotating big wheel with open chairs",
+        "description": "Forgó óriáskerék nyitott ülésekkel.",
         "reference-capacity": "32 passengers",
-        "capacity": "32 passengers"
+        "capacity": "32 utas"
     },
     "rct2.ride.gdrop1": {
         "reference-name": "Roto-Drop",
@@ -2705,9 +2705,9 @@
     },
     "rct2.ride.popcs": {
         "reference-name": "Popcorn Stall",
-        "name": "Popcorn Stall",
+        "name": "Popcornos bodé",
         "reference-description": "A stall selling giant buckets of popcorn",
-        "description": "A stall selling giant buckets of popcorn"
+        "description": "Bódé, ahol hatalmas vödrökben árulják a pattogatott kukoricát."
     },
     "rct2.ride.premt1": {
         "reference-name": "LIM Launched Roller Coaster Trains",
@@ -4321,7 +4321,7 @@
     },
     "rct2.scenery_small.tef": {
         "reference-name": "Elephant Fountain",
-        "name": "Elephant Fountain"
+        "name": "Elefántos szökőkút"
     },
     "rct2.scenery_small.tel": {
         "reference-name": "European Larch Tree",
@@ -4329,23 +4329,23 @@
     },
     "rct2.scenery_small.ten": {
         "reference-name": "Cleopatra’s Needle",
-        "name": "Cleopatra’s Needle"
+        "name": "Kleopátra tűje"
     },
     "rct2.scenery_small.tep": {
         "reference-name": "Egyptian Column",
-        "name": "Egyptian Column"
+        "name": "Egyiptomi oszlop"
     },
     "rct2.scenery_small.terb": {
         "reference-name": "Stone Block",
-        "name": "Stone Block"
+        "name": "Kőtömb"
     },
     "rct2.scenery_small.ters": {
         "reference-name": "Ruined Statue",
-        "name": "Ruined Statue"
+        "name": "Romos szobor"
     },
     "rct2.scenery_small.tes1": {
         "reference-name": "Egyptian Statue",
-        "name": "Egyptian Statue"
+        "name": "Egyiptomi szobor"
     },
     "rct2.scenery_small.tf1": {
         "reference-name": "Fruit Tree",
@@ -7865,7 +7865,7 @@
     },
     "rct2tt.scenery_small.medstool": {
         "reference-name": "Stool",
-        "name": "Stool"
+        "name": "Zsámoly"
     },
     "rct2tt.scenery_small.medtools": {
         "reference-name": "Farm Tools",
@@ -8433,7 +8433,7 @@
     },
     "rct2tt.scenery_small.stoolset": {
         "reference-name": "Stools",
-        "name": "Stools"
+        "name": "Zsámolyok"
     },
     "rct2tt.scenery_small.strictop": {
         "reference-name": "Animatronic Triceratops",
