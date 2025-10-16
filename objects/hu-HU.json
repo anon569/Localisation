@@ -173,9 +173,9 @@
     },
     "rct1.ride.fruity_ices_stall": {
         "reference-name": "Fruity Ices Stall",
-        "name": "Fruity Ices Stall",
+        "name": "Gyümölcsfagylaltos stand",
         "reference-description": "A themed stall selling fruity ice creams",
-        "description": "A themed stall selling fruity ice creams"
+        "description": "Gyümölcsfagylaltot árusító tematikus stand"
     },
     "rct1.ride.go_karts": {
         "reference-name": "Go-Karts (with helmets)",
@@ -2347,13 +2347,13 @@
         "reference-name": "Doughnut Shop",
         "name": "Fánkozó",
         "reference-description": "A stall selling ring-shaped doughnuts",
-        "description": "Karika alakú fánkokat áruló bódé."
+        "description": "Gyűrűs fánkokat áruló stand"
     },
     "rct2.ride.drnks": {
         "reference-name": "Drinks Stall",
-        "name": "Üdítős bódé",
+        "name": "Üdítős stand",
         "reference-description": "A can-shaped stall selling fizzy drinks",
-        "description": "Aludoboz alakú alakú bódé, ahol szénsavas italokat árulnak."
+        "description": "Aludoboz alakú alakú stand, ahol szénsavas üdítőket árulnak"
     },
     "rct2.ride.enterp": {
         "reference-name": "Enterprise",
@@ -2367,7 +2367,7 @@
         "reference-name": "First Aid Room",
         "name": "Elsősegély szoba",
         "reference-description": "A place for sick guests to go for faster recovery",
-        "description": "Egy hely, ahová a beteg vendégek mehetnek, hogy gyorsabban felépüljenek."
+        "description": "Egy hely, ahová a beteg vendégek mehetnek, hogy gyorsabban felépüljenek"
     },
     "rct2.ride.frnood": {
         "reference-name": "Fried Rice Noodles Stall",
@@ -2407,9 +2407,9 @@
     },
     "rct2.ride.golf1": {
         "reference-name": "Mini Golf",
-        "name": "Mini Golf",
+        "name": "Minigolf",
         "reference-description": "A gentle game of miniature golf",
-        "description": "A gentle game of miniature golf",
+        "description": "Egy könnyed minigolf játék",
         "reference-capacity": "",
         "capacity": ""
     },
@@ -2487,9 +2487,9 @@
     },
     "rct2.ride.icecr1": {
         "reference-name": "Fruity Ices Stall",
-        "name": "Fruity Ices Stall",
+        "name": "Gyümölcsfagylaltos stand",
         "reference-description": "A themed stall selling fruity ice creams",
-        "description": "A themed stall selling fruity ice creams"
+        "description": "Gyümölcsfagylaltot árusító tematikus stand"
     },
     "rct2.ride.icecr2": {
         "reference-name": "Ice Cream Cone Stall",
@@ -2505,9 +2505,9 @@
     },
     "rct2.ride.infok": {
         "reference-name": "Information Kiosk",
-        "name": "Information Kiosk",
+        "name": "Információs stand",
         "reference-description": "A stall where guests can obtain park maps and purchase umbrellas",
-        "description": "A stall where guests can obtain park maps and purchase umbrellas"
+        "description": "Egy stand, ahol a vendégek parktérképet szerezhetnek be és esernyőt vásárolhatnak"
     },
     "rct2.ride.intbob": {
         "reference-name": "6-seater Bobsleighs",
@@ -2691,9 +2691,9 @@
     },
     "rct2.ride.pizzs": {
         "reference-name": "Pizza Stall",
-        "name": "Pizzásbódé",
+        "name": "Pizzás stand",
         "reference-description": "A stall selling portions of pizza",
-        "description": "Bódé, ahol pizzát árulnak"
+        "description": "Stand, ahol pizzát árulnak"
     },
     "rct2.ride.pmt1": {
         "reference-name": "Powered Mine Trains",
@@ -2707,7 +2707,7 @@
         "reference-name": "Popcorn Stall",
         "name": "Popcornos bodé",
         "reference-description": "A stall selling giant buckets of popcorn",
-        "description": "Bódé, ahol hatalmas vödrökben árulják a pattogatott kukoricát."
+        "description": "Stand, ahol hatalmas vödrökben árulják a pattogatott kukoricát."
     },
     "rct2.ride.premt1": {
         "reference-name": "LIM Launched Roller Coaster Trains",
@@ -3289,7 +3289,7 @@
         "reference-park_name": "Bumbly Bazaar",
         "park_name": "Bumfordi Bazár",
         "reference-details": "Starting with a small market bazaar, your challenge is to increase the profit from shops and stalls by building rides and roller coasters to attract more customers",
-        "details": "Egy kis piaci bazárral kezdve, a kihívásod a boltok és bódék nyereségének növelése azzal, hogy több vendéget vonzol be játékok és hullámvasutak építésével"
+        "details": "Egy kis piaci bazárral kezdve, a kihívásod a boltok és standok nyereségének növelése azzal, hogy több vendéget vonzol be játékok és hullámvasutak építésével"
     },
     "rct2.scenario_meta.crazy_castle": {
         "reference-name": "Crazy Castle",
@@ -5581,11 +5581,11 @@
     },
     "rct2.station.castle_brown": {
         "reference-name": "Castle (Brown)",
-        "name": "Kastély (barna)"
+        "name": "Vár (barna)"
     },
     "rct2.station.castle_grey": {
         "reference-name": "Castle (Grey)",
-        "name": "Kastély (szürke)"
+        "name": "Vár (szürke)"
     },
     "rct2.station.classical": {
         "reference-name": "Classical / Roman",
@@ -5849,15 +5849,15 @@
     },
     "rct2tt.ride.1920sand": {
         "reference-name": "Art Deco Food Stall",
-        "name": "Art déco ételes bódé",
+        "name": "Art déco ételes stand",
         "reference-description": "A stall selling noodles and fresh Lemonade",
-        "description": "Egy tésztát és friss limonádét áruló bódé"
+        "description": "Egy tésztát és friss limonádét áruló stand"
     },
     "rct2tt.ride.1960tsrt": {
         "reference-name": "Flower Power T-Shirts",
         "name": "Virágbéke pólók",
         "reference-description": "Stall selling T-shirts with a flower motif",
-        "description": "Egy bódé, ahol virág motívummal ellátott pólókat árulnak"
+        "description": "Egy stand, ahol virág motívummal ellátott pólókat árulnak"
     },
     "rct2tt.ride.barnstrm": {
         "reference-name": "Barnstorming Trains",
@@ -6063,7 +6063,7 @@
         "reference-name": "Witches Brew Soup",
         "name": "Boszorkányfőzet-leves",
         "reference-description": "A stall selling a thick broth-style soup",
-        "description": "Egy sűrű húslevest áruló bódé"
+        "description": "Egy sűrű húslevest áruló stand"
     },
     "rct2tt.ride.mgr2": {
         "reference-name": "Double Deck Carousel",
@@ -6083,27 +6083,27 @@
     },
     "rct2tt.ride.mktstal1": {
         "reference-name": "Toffee Apple Market Stall",
-        "name": "Karamellás almás piaci bódé",
+        "name": "Karamellás almás piaci stand",
         "reference-description": "A themed stall selling sticky toffee apples",
-        "description": "Egy tematikus bódé, ahol ragadós karamellás almákat árulnak"
+        "description": "Egy tematikus stand, ahol ragadós karamellás almákat árulnak"
     },
     "rct2tt.ride.mktstal2": {
         "reference-name": "Lemonade Market Stall",
-        "name": "Limonádés piaci bódé",
+        "name": "Limonádés piaci stand",
         "reference-description": "A themed stall selling old style, fresh lemonade.",
-        "description": "Egy tematikus bódé, ami régi stílusú, friss limonádét árul"
+        "description": "Egy tematikus stand, ami régi stílusú, friss limonádét árul"
     },
     "rct2tt.ride.moonjuce": {
         "reference-name": "Moon Juice",
         "name": "Holdlé",
         "reference-description": "A stall selling the latest soft drinks",
-        "description": "Egy bódé, ahol a legújabb üdítőitalokat árulják"
+        "description": "Egy stand, ahol a legújabb üdítőitalokat árulják"
     },
     "rct2tt.ride.mythosea": {
         "reference-name": "Neptune’s Seafood Stall",
-        "name": "Neptunus tengeri herkentyűs bódéja",
+        "name": "Neptunus tengeri herkentyűs standja",
         "reference-description": "A stall selling Neptune’s salty treats",
-        "description": "Neptunus sós finomságait árusító bódé"
+        "description": "Neptunus sós finomságait árusító stand"
     },
     "rct2tt.ride.neptunex": {
         "reference-name": "Neptune Ride",
@@ -6187,9 +6187,9 @@
     },
     "rct2tt.ride.softoyst": {
         "reference-name": "Soft Toy Stall",
-        "name": "Plüssjátékos bódé",
+        "name": "Plüssjátékos stand",
         "reference-description": "A stall selling a cute soft toy dinosaur",
-        "description": "Egy bódé, ahol aranyos, puha játék dinoszauruszokat árulnak"
+        "description": "Egy stand, ahol aranyos, puha játék dinoszauruszokat árulnak"
     },
     "rct2tt.ride.spokprsn": {
         "reference-name": "Haunted Jail House",
@@ -6517,7 +6517,7 @@
     },
     "rct2tt.scenery_large.footprnt": {
         "reference-name": "Giant Dinosaur Footprint",
-        "name": "Óriás dinoszaurusz-lábnyom"
+        "name": "Óriási dinoszaurusz-lábnyom"
     },
     "rct2tt.scenery_large.forbidft": {
         "reference-name": "Forbidden Fruit Tree",
@@ -6637,35 +6637,35 @@
     },
     "rct2tt.scenery_large.mcastl01": {
         "reference-name": "Castle Inverted Corner",
-        "name": "Castle Inverted Corner"
+        "name": "Fordított vársarok"
     },
     "rct2tt.scenery_large.mcastl11": {
         "reference-name": "Castle Portcullis",
-        "name": "Castle Portcullis"
+        "name": "Várkapu"
     },
     "rct2tt.scenery_large.mcastl12": {
         "reference-name": "Castle Entrance",
-        "name": "Castle Entrance"
+        "name": "Várbejárat"
     },
     "rct2tt.scenery_large.mcastl13": {
         "reference-name": "Castle Tower Corner Piece",
-        "name": "Castle Tower Corner Piece"
+        "name": "Vártorony sarokelem"
     },
     "rct2tt.scenery_large.mcastl14": {
         "reference-name": "Castle Tower Corner Piece",
-        "name": "Castle Tower Corner Piece"
+        "name": "Vártorony sarokelem"
     },
     "rct2tt.scenery_large.mcastl15": {
         "reference-name": "Castle Tower Cross Piece",
-        "name": "Castle Tower Cross Piece"
+        "name": "Vártorony keresztelem"
     },
     "rct2tt.scenery_large.mcastl16": {
         "reference-name": "Castle Tower Straight Piece",
-        "name": "Castle Tower Straight Piece"
+        "name": "Vártorony egyenes elem"
     },
     "rct2tt.scenery_large.mcastl17": {
         "reference-name": "Castle Tower T Piece",
-        "name": "Castle Tower T Piece"
+        "name": "Vártorony T-elem"
     },
     "rct2tt.scenery_large.mcastl18": {
         "reference-name": "Castle Tower T Piece",
@@ -6677,11 +6677,11 @@
     },
     "rct2tt.scenery_large.metoan01": {
         "reference-name": "Meteor Crater Corner",
-        "name": "Meteor Crater Corner"
+        "name": "Meteorkráter sarok"
     },
     "rct2tt.scenery_large.metoan02": {
         "reference-name": "Meteor Crater Inverted Corner",
-        "name": "Meteor Crater Inverted Corner"
+        "name": "Meteorkráter fordított sarok"
     },
     "rct2tt.scenery_large.oldnyk20": {
         "reference-name": "New York Roof Piece",
@@ -7057,11 +7057,11 @@
     },
     "rct2tt.scenery_small.bigbassx": {
         "reference-name": "Giant Bass Guitar",
-        "name": "Óriás basszusgitár"
+        "name": "Óriási basszusgitár"
     },
     "rct2tt.scenery_small.biggutar": {
         "reference-name": "Giant Guitar",
-        "name": "Giant Guitar"
+        "name": "Óriási gitár"
     },
     "rct2tt.scenery_small.bkrgang1": {
         "reference-name": "Biker",
@@ -10317,87 +10317,87 @@
     },
     "rct2ww.scenery_small.sbwind01": {
         "reference-name": "Wind Sculpted Concave Wall Corner",
-        "name": "Wind Sculpted Concave Wall Corner"
+        "name": "Szél formálta homorú falsarok"
     },
     "rct2ww.scenery_small.sbwind02": {
         "reference-name": "Wind Sculpted Concave Roof Corner",
-        "name": "Wind Sculpted Concave Roof Corner"
+        "name": "Szél formálta homorú tetősarok"
     },
     "rct2ww.scenery_small.sbwind03": {
         "reference-name": "Wind Sculpted Concave Wall Corner",
-        "name": "Wind Sculpted Concave Wall Corner"
+        "name": "Szél formálta homorú falsarok"
     },
     "rct2ww.scenery_small.sbwind04": {
         "reference-name": "Wind Sculpted Convex Wall Corner",
-        "name": "Wind Sculpted Convex Wall Corner"
+        "name": "Szél formálta domború falsarok"
     },
     "rct2ww.scenery_small.sbwind05": {
         "reference-name": "Wind Sculpted Convex Roof Corner",
-        "name": "Wind Sculpted Convex Roof Corner"
+        "name": "Szél formálta domború tetősarok"
     },
     "rct2ww.scenery_small.sbwind06": {
         "reference-name": "Wind Sculpted Convex Wall Corner",
-        "name": "Wind Sculpted Convex Wall Corner"
+        "name": "Szél formálta domború falsarok"
     },
     "rct2ww.scenery_small.sbwind07": {
         "reference-name": "Wind Sculpted Rock Formation Base",
-        "name": "Wind Sculpted Rock Formation Base"
+        "name": "Szél formálta sziklaképződmény alap"
     },
     "rct2ww.scenery_small.sbwind08": {
         "reference-name": "Wind Sculpted Rock Formation Base",
-        "name": "Wind Sculpted Rock Formation Base"
+        "name": "Szél formálta sziklaképződmény alap"
     },
     "rct2ww.scenery_small.sbwind09": {
         "reference-name": "Wind Sculpted Rock Formation Mid Section",
-        "name": "Wind Sculpted Rock Formation Mid Section"
+        "name": "Szél formálta sziklaképződmény középrész"
     },
     "rct2ww.scenery_small.sbwind10": {
         "reference-name": "Wind Sculpted Rock Formation Mid Section",
-        "name": "Wind Sculpted Rock Formation Mid Section"
+        "name": "Szél formálta sziklaképződmény középrész"
     },
     "rct2ww.scenery_small.sbwind11": {
         "reference-name": "Wind Sculpted Rock Formation Mid Section",
-        "name": "Wind Sculpted Rock Formation Mid Section"
+        "name": "Szél formálta sziklaképződmény középrész"
     },
     "rct2ww.scenery_small.sbwind12": {
         "reference-name": "Wind Sculpted Rock Formation Mid Section",
-        "name": "Wind Sculpted Rock Formation Mid Section"
+        "name": "Szél formálta sziklaképződmény középrész"
     },
     "rct2ww.scenery_small.sbwind13": {
         "reference-name": "Wind Sculpted Rock Formation Top",
-        "name": "Wind Sculpted Rock Formation Top"
+        "name": "Szél formálta sziklaképződmény teteje"
     },
     "rct2ww.scenery_small.sbwind14": {
         "reference-name": "Wind Sculpted Rock Formation Top",
-        "name": "Wind Sculpted Rock Formation Top"
+        "name": "Szél formálta sziklaképződmény teteje"
     },
     "rct2ww.scenery_small.sbwind15": {
         "reference-name": "Wind Sculpted Roof Flat Roof Piece",
-        "name": "Wind Sculpted Roof Flat Roof Piece"
+        "name": "Szél formálta tető sík tetőelem"
     },
     "rct2ww.scenery_small.sbwind16": {
         "reference-name": "Wind Sculpted Roof Flat Roof Piece",
-        "name": "Wind Sculpted Roof Flat Roof Piece"
+        "name": "Szél formálta tető sík tetőelem"
     },
     "rct2ww.scenery_small.sbwind17": {
         "reference-name": "Wind Sculpted Roof Flat Roof Piece",
-        "name": "Wind Sculpted Roof Flat Roof Piece"
+        "name": "Szél formálta tető sík tetőelem"
     },
     "rct2ww.scenery_small.sbwind18": {
         "reference-name": "Wind Sculpted Floor Piece",
-        "name": "Wind Sculpted Floor Piece"
+        "name": "Szél formálta padlóelem"
     },
     "rct2ww.scenery_small.sbwind19": {
         "reference-name": "Wind Sculpted Floor Piece",
-        "name": "Wind Sculpted Floor Piece"
+        "name": "Szél formálta padlóelem"
     },
     "rct2ww.scenery_small.sbwind20": {
         "reference-name": "Wind Sculpted Wall Base",
-        "name": "Wind Sculpted Wall Base"
+        "name": "Szél formálta falalap"
     },
     "rct2ww.scenery_small.sbwind21": {
         "reference-name": "Wind Sculpted Wall Base",
-        "name": "Wind Sculpted Wall Base"
+        "name": "Szél formálta falalap"
     },
     "rct2ww.scenery_small.sbwplm01": {
         "reference-name": "Cabana Top",
@@ -11725,19 +11725,19 @@
     },
     "rct2ww.scenery_wall.wwind03": {
         "reference-name": "Wind Sculpted Wall Piece",
-        "name": "Wind Sculpted Wall Piece"
+        "name": "Szél formálta falelem"
     },
     "rct2ww.scenery_wall.wwind04": {
         "reference-name": "Wind Sculpted Wall Piece",
-        "name": "Wind Sculpted Wall Piece"
+        "name": "Szél formálta falelem"
     },
     "rct2ww.scenery_wall.wwind05": {
         "reference-name": "Wind Sculpted Wall Piece",
-        "name": "Wind Sculpted Wall Piece"
+        "name": "Szél formálta falelem"
     },
     "rct2ww.scenery_wall.wwind06": {
         "reference-name": "Wind Sculpted Wall Piece",
-        "name": "Wind Sculpted Wall Piece"
+        "name": "Szél formálta falelem"
     },
     "toontowner.scenery_small.ttpirf02": {
         "reference-name": "Roof",
