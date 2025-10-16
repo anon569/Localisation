@@ -2393,7 +2393,7 @@
         "reference-name": "Ferris Wheel",
         "name": "Óriáskerék",
         "reference-description": "Rotating big wheel with open chairs",
-        "description": "Forgó óriáskerék nyitott ülésekkel.",
+        "description": "Forgó óriáskerék nyitott ülésekkel",
         "reference-capacity": "32 passengers",
         "capacity": "32 utas"
     },
@@ -2707,7 +2707,7 @@
         "reference-name": "Popcorn Stall",
         "name": "Popcornos bodé",
         "reference-description": "A stall selling giant buckets of popcorn",
-        "description": "Stand, ahol hatalmas vödrökben árulják a pattogatott kukoricát."
+        "description": "Stand, ahol hatalmas vödrökben árulják a pattogatott kukoricát"
     },
     "rct2.ride.premt1": {
         "reference-name": "LIM Launched Roller Coaster Trains",
@@ -6091,7 +6091,7 @@
         "reference-name": "Lemonade Market Stall",
         "name": "Limonádés piaci stand",
         "reference-description": "A themed stall selling old style, fresh lemonade.",
-        "description": "Egy tematikus stand, ami régi stílusú, friss limonádét árul"
+        "description": "Egy tematikus stand, ami régi stílusú, friss limonádét árul."
     },
     "rct2tt.ride.moonjuce": {
         "reference-name": "Moon Juice",
