@@ -685,19 +685,19 @@
     },
     "rct1aa.ride.flying_saucers": {
         "reference-name": "Flying Saucers",
-        "name": "Flying Saucers",
+        "name": "Repülő csészealjak",
         "reference-description": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
-        "description": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
+        "description": "A vendégek csészealj alakú légpárnás járművekben utaznak, amelyeket szabadon irányíthatnak",
         "reference-capacity": "1 person per car",
-        "capacity": "1 person per car"
+        "capacity": "1 személy kocsinként"
     },
     "rct1aa.ride.ghost_train_cars": {
         "reference-name": "Ghost Train Cars",
-        "name": "Ghost Train Cars",
+        "name": "Szellemvonat kocsik",
         "reference-description": "Powered monster-shaped cars that run on a ghost train track",
-        "description": "Powered monster-shaped cars that run on a ghost train track",
+        "description": "Motoros, szörny alakú kocsik, amelyek szellemvonat pályán közlekednek",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct1aa.ride.heartline_twister_cars": {
         "reference-name": "Twister Cars",
@@ -2385,11 +2385,11 @@
     },
     "rct2.ride.fsauc": {
         "reference-name": "Flying Saucers",
-        "name": "Flying Saucers",
+        "name": "Repülő csészealjak",
         "reference-description": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
-        "description": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
+        "description": "A vendégek csészealj alakú légpárnás járművekben utaznak, amelyeket szabadon irányíthatnak",
         "reference-capacity": "1 person per car",
-        "capacity": "1 person per car"
+        "capacity": "1 személy kocsinként"
     },
     "rct2.ride.funcake": {
         "reference-name": "Funnel Cake Shop",
@@ -2431,11 +2431,11 @@
     },
     "rct2.ride.gtc": {
         "reference-name": "Ghost Train Cars",
-        "name": "Ghost Train Cars",
+        "name": "Szellemvonat kocsik",
         "reference-description": "Powered monster-shaped cars that run on a ghost train track",
-        "description": "Powered monster-shaped cars that run on a ghost train track",
+        "description": "Motoros, szörny alakú kocsik, amelyek szellemvonat pályán közlekednek",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct2.ride.hatst": {
         "reference-name": "Hat Stall",
@@ -2473,11 +2473,11 @@
     },
     "rct2.ride.hmcar": {
         "reference-name": "Haunted Mansion Cars",
-        "name": "Haunted Mansion Cars",
+        "name": "Kísértetkastély kocsik",
         "reference-description": "Small powered cars that run on a ghost train track",
-        "description": "Small powered cars that run on a ghost train track",
+        "description": "Kis, motoros kocsik, amelyek szellemvonat pályán közlekednek",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 személy kocsinként"
     },
     "rct2.ride.hotds": {
         "reference-name": "Hot Dog Stall",
