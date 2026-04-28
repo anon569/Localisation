@@ -5001,15 +5001,15 @@
     },
     "rct2.scenery_small.tstd": {
         "reference-name": "Dolphins Statue",
-        "name": "Dolphins Statue"
+        "name": "Delfines szobor"
     },
     "rct2.scenery_small.tt1": {
         "reference-name": "Roman Temple",
-        "name": "Roman Temple"
+        "name": "Római templom"
     },
     "rct2.scenery_small.ttf": {
         "reference-name": "Fountain",
-        "name": "Fountain"
+        "name": "Szökőkút"
     },
     "rct2.scenery_small.ttg": {
         "reference-name": "Target",
@@ -5017,7 +5017,7 @@
     },
     "rct2.scenery_small.tus": {
         "reference-name": "Unicorn Statue",
-        "name": "Unicorn Statue"
+        "name": "Egyszarvú szobor"
     },
     "rct2.scenery_small.tvl": {
         "reference-name": "Voss’s Laburnam Tree",
@@ -5065,7 +5065,7 @@
     },
     "rct2.scenery_small.wdiag": {
         "reference-name": "Fountain",
-        "name": "Fountain"
+        "name": "Szökőkút"
     },
     "rct2.scenery_small.whoriz": {
         "reference-name": "Water Jet",
@@ -7885,19 +7885,19 @@
     },
     "rct2tt.scenery_small.meteorcr": {
         "reference-name": "Meteor Crater Corner",
-        "name": "Meteor Crater Corner"
+        "name": "Meteorkráter sarok"
     },
     "rct2tt.scenery_small.meteorst": {
         "reference-name": "Meteor Crater Wall",
-        "name": "Meteor Crater Wall"
+        "name": "Meteorkráter fal"
     },
     "rct2tt.scenery_small.metrcrs1": {
         "reference-name": "Meteor Crater Wall with Crystals",
-        "name": "Meteor Crater Wall with Crystals"
+        "name": "Meteorkráter fal kristályokkal"
     },
     "rct2tt.scenery_small.metrcrs2": {
         "reference-name": "Meteor Crater Wall with Crystals",
-        "name": "Meteor Crater Wall with Crystals"
+        "name": "Meteorkráter fal kristályokkal"
     },
     "rct2tt.scenery_small.minotaur": {
         "reference-name": "Minotaur Statue",
@@ -8041,39 +8041,39 @@
     },
     "rct2tt.scenery_small.primhead": {
         "reference-name": "Wood Fence with Man Eating Plant",
-        "name": "Wood Fence with Man Eating Plant"
+        "name": "Fakerítés emberevő növénnyel"
     },
     "rct2tt.scenery_small.primhear": {
         "reference-name": "Wood Fence with Man Eating Plant",
-        "name": "Wood Fence with Man Eating Plant"
+        "name": "Fakerítés emberevő növénnyel"
     },
     "rct2tt.scenery_small.primroor": {
         "reference-name": "Wood Fence with Climbing Vines",
-        "name": "Wood Fence with Climbing Vines"
+        "name": "Fakerítés kúszónövényekkel"
     },
     "rct2tt.scenery_small.primroot": {
         "reference-name": "Wood Fence with Climbing Vines",
-        "name": "Wood Fence with Climbing Vines"
+        "name": "Fakerítés kúszónövényekkel"
     },
     "rct2tt.scenery_small.primscrn": {
         "reference-name": "Wood Fence with Man Eating Plant",
-        "name": "Wood Fence with Man Eating Plant"
+        "name": "Fakerítés emberevő növénnyel"
     },
     "rct2tt.scenery_small.primst01": {
         "reference-name": "Wood Fence with Man Eating Plant",
-        "name": "Wood Fence with Man Eating Plant"
+        "name": "Fakerítés emberevő növénnyel"
     },
     "rct2tt.scenery_small.primst02": {
         "reference-name": "Wood Fence with Man Eating Plant",
-        "name": "Wood Fence with Man Eating Plant"
+        "name": "Fakerítés emberevő növénnyel"
     },
     "rct2tt.scenery_small.primst03": {
         "reference-name": "Wood Fence with Man Eating Plant",
-        "name": "Wood Fence with Man Eating Plant"
+        "name": "Fakerítés emberevő növénnyel"
     },
     "rct2tt.scenery_small.primtall": {
         "reference-name": "Wood Fence with Man Eating Plant",
-        "name": "Wood Fence with Man Eating Plant"
+        "name": "Fakerítés emberevő növénnyel"
     },
     "rct2tt.scenery_small.primwal1": {
         "reference-name": "Wood Fence with Dead Vines",
