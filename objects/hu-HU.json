@@ -2245,41 +2245,41 @@
     },
     "rct2.ride.chbuild": {
         "reference-name": "Crooked House",
-        "name": "Crooked House",
+        "name": "Görbe ház",
         "reference-description": "Building containing warped rooms and angled corridors to disorientate people walking through it",
-        "description": "Building containing warped rooms and angled corridors to disorientate people walking through it",
+        "description": "Torz szobákat és ferde folyosókat tartalmazó épület, amely összezavarja az áthaladó emberket",
         "reference-capacity": "5 guests",
-        "capacity": "5 guests"
+        "capacity": "5 vendég"
     },
     "rct2.ride.chcks": {
         "reference-name": "Fried Chicken Stall",
-        "name": "Fried Chicken Stall",
+        "name": "Sültcsirkés bódé",
         "reference-description": "A stall selling tubs of fried chicken",
-        "description": "A stall selling tubs of fried chicken"
+        "description": "Bódé, ahol kosaras sült csirkét árulnak"
     },
     "rct2.ride.chknug": {
         "reference-name": "Chicken Nuggets Stall",
-        "name": "Chicken Nuggets Stall",
+        "name": "Csirkefalatos bódé",
         "reference-description": "A stall selling fried chicken nuggets",
-        "description": "A stall selling fried chicken nuggets"
+        "description": "Bódé, ahol rántott csirkefalatokat árulnak"
     },
     "rct2.ride.chpsh": {
         "reference-name": "Chip Shop",
-        "name": "Chip Shop",
+        "name": "Sültkrumplizó",
         "reference-description": "A hut selling chips",
-        "description": "A hut selling chips"
+        "description": "Kunyhó, ahol sült krumplit árulnak"
     },
     "rct2.ride.chpsh2": {
         "reference-name": "Chips Stall",
-        "name": "Chips Stall",
+        "name": "Sültkrumplis bódé",
         "reference-description": "A stall selling chips",
-        "description": "A stall selling chips"
+        "description": "Bódé, ahol sült krumplit árulnak"
     },
     "rct2.ride.cindr": {
         "reference-name": "Sujeonggwa Stall",
-        "name": "Sujeonggwa Stall",
+        "name": "Szudzsonggva-árus",
         "reference-description": "A stall selling Korean style Sujeonggwa drinks",
-        "description": "A stall selling Korean style Sujeonggwa drinks"
+        "description": "Bódé, ahol koreai stílusú szudzsonggvát árulnak"
     },
     "rct2.ride.circus1": {
         "reference-name": "Circus",
@@ -2307,29 +2307,29 @@
     },
     "rct2.ride.cndyf": {
         "reference-name": "Candyfloss Stall",
-        "name": "Candyfloss Stall",
+        "name": "Vattacukorárus",
         "reference-description": "A candyfloss shaped building selling pink candyfloss",
-        "description": "A candyfloss shaped building selling pink candyfloss"
+        "description": "Vattacukor alakú épület, ahol rózsaszín vattacukrot árulnak"
     },
     "rct2.ride.coffs": {
         "reference-name": "Coffee Shop",
-        "name": "Coffee Shop",
+        "name": "Kávézó",
         "reference-description": "An art-deco style shop selling cups of coffee",
-        "description": "An art-deco style shop selling cups of coffee"
+        "description": "Art déco stílusú üzlet, ahol kávét árulnak"
     },
     "rct2.ride.cookst": {
         "reference-name": "Cookie Shop",
-        "name": "Cookie Shop",
+        "name": "Kekszárus",
         "reference-description": "A stall selling giant cookies",
-        "description": "A stall selling giant cookies"
+        "description": "Bódé, ahol óriási kekszeket árulnak"
     },
     "rct2.ride.cstboat": {
         "reference-name": "Coaster Boats",
-        "name": "Coaster Boats",
+        "name": "Hullámvasút-csónakok",
         "reference-description": "Boat-shaped roller coaster cars",
-        "description": "Boat-shaped roller coaster cars",
+        "description": "Csónak alakú hullámvasútkocsik",
         "reference-capacity": "6 passengers per boat",
-        "capacity": "6 passengers per boat"
+        "capacity": "6 utas csónakonként"
     },
     "rct2.ride.ctcar": {
         "reference-name": "Cheshire Cats",
@@ -7197,7 +7197,7 @@
     },
     "rct2tt.scenery_small.fltsign1": {
         "reference-name": "Anti-Gravity LCD Billboard",
-        "name": "Anti-Gravity LCD Billboard"
+        "name": "Antigravitációs LCD hirdetőtábla"
     },
     "rct2tt.scenery_small.fltsign2": {
         "reference-name": "Anti-Gravity LCD Billboard",
@@ -7809,15 +7809,15 @@
     },
     "rct2tt.scenery_small.laserx01": {
         "reference-name": "Laser Fence",
-        "name": "Laser Fence"
+        "name": "Lézerkerítés"
     },
     "rct2tt.scenery_small.laserx02": {
         "reference-name": "Laser Fence Corner",
-        "name": "Laser Fence Corner"
+        "name": "Lézerkerítés sarok"
     },
     "rct2tt.scenery_small.mamthw01": {
         "reference-name": "Large Mammoth Fence",
-        "name": "Large Mammoth Fence"
+        "name": "Nagy mamutkerítés"
     },
     "rct2tt.scenery_small.mamthw02": {
         "reference-name": "Large Mammoth Fence",
@@ -10805,15 +10805,15 @@
     },
     "rct2ww.scenery_small.wdrab10": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Sivár falelem"
     },
     "rct2ww.scenery_small.wdrab11": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Sivár falelem"
     },
     "rct2ww.scenery_small.wdrab12": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Sivár falelem"
     },
     "rct2ww.scenery_small.wdrab13": {
         "reference-name": "Drab Step-up Piece",
@@ -11033,67 +11033,67 @@
     },
     "rct2ww.scenery_wall.w2corr01": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w2corr02": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w2corr03": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w2corr04": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w2corr05": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w2corr06": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w2corr07": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w2corr08": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w3corr01": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w3corr02": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w3corr03": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w3corr04": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w3corr05": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w3corr06": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w3corr07": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.w3corr08": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wallic10": {
         "reference-name": "Ice Wall",
@@ -11241,135 +11241,135 @@
     },
     "rct2ww.scenery_wall.wbrick01": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Vöröstégla-falelem"
     },
     "rct2ww.scenery_wall.wbrick02": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Vöröstégla-falelem"
     },
     "rct2ww.scenery_wall.wbrick03": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Vöröstégla-falelem"
     },
     "rct2ww.scenery_wall.wbrick04": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Vöröstégla-falelem"
     },
     "rct2ww.scenery_wall.wbrick05": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Vöröstégla-falelem"
     },
     "rct2ww.scenery_wall.wbrick08": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Vöröstégla-falelem"
     },
     "rct2ww.scenery_wall.wbrick11": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Vöröstégla-falelem"
     },
     "rct2ww.scenery_wall.wbrick12": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Vöröstégla-falelem"
     },
     "rct2ww.scenery_wall.wbrick13": {
         "reference-name": "Red Brick Wall Piece",
-        "name": "Red Brick Wall Piece"
+        "name": "Vöröstégla-falelem"
     },
     "rct2ww.scenery_wall.wcorr01": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr02": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr03": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr04": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr05": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr06": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr07": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr08": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr09": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr10": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr11": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr12": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr13": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr14": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr15": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wcorr16": {
         "reference-name": "Corrugated Wall Piece",
-        "name": "Corrugated Wall Piece"
+        "name": "Hullámlemez-falelem"
     },
     "rct2ww.scenery_wall.wdrab01": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Sivár falelem"
     },
     "rct2ww.scenery_wall.wdrab02": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Sivár falelem"
     },
     "rct2ww.scenery_wall.wdrab03": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Sivár falelem"
     },
     "rct2ww.scenery_wall.wdrab04": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Sivár falelem"
     },
     "rct2ww.scenery_wall.wdrab05": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Sivár falelem"
     },
     "rct2ww.scenery_wall.wdrab06": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Sivár falelem"
     },
     "rct2ww.scenery_wall.wdrab07": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Sivár falelem"
     },
     "rct2ww.scenery_wall.wdrab08": {
         "reference-name": "Drab Wall Piece",
-        "name": "Drab Wall Piece"
+        "name": "Sivár falelem"
     },
     "rct2ww.scenery_wall.wgeorg01": {
         "reference-name": "Georgian Wall Piece",
