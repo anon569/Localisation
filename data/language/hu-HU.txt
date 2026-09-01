@@ -966,7 +966,7 @@ STR_1596    :„{STRINGID} gyümölcsleve igazán megéri az árát”
 STR_1597    :„{STRINGID} szójateje igazán megéri az árát”
 STR_1598    :„{STRINGID} szudzsonggvája igazán megéri az árát”
 STR_1599    :„{STRINGID} szendvicse igazán megéri az árát”
-STR_1600    :„{STRINGID} sütije igazán megéri az árát”
+STR_1600    :„{STRINGID} csokis keksze igazán megéri az árát”
 STR_1601    :
 STR_1602    :
 STR_1603    :
@@ -998,7 +998,7 @@ STR_1628    :„{STRINGID} gyümölcsleve túl sokba kerül számomra”
 STR_1629    :„{STRINGID} szójateje túl sokba kerül számomra”
 STR_1630    :„{STRINGID} szudzsonggvája túl sokba kerül számomra”
 STR_1631    :„{STRINGID} szendvicse túl sokba kerül számomra”
-STR_1632    :„{STRINGID} sütije túl sokba kerül számomra”
+STR_1632    :„{STRINGID} csokis keksze túl sokba kerül számomra”
 STR_1633    :
 STR_1634    :
 STR_1635    :
@@ -1442,7 +1442,7 @@ STR_2112    :{WINDOW_COLOUR_2}Gyümölcslé ára:
 STR_2113    :{WINDOW_COLOUR_2}Szójatej ára:
 STR_2114    :{WINDOW_COLOUR_2}Szudzsonggva ára:
 STR_2115    :{WINDOW_COLOUR_2}Szendvics ára:
-STR_2116    :{WINDOW_COLOUR_2}Süti ára:
+STR_2116    :{WINDOW_COLOUR_2}Csokis keksz ára:
 STR_2117    :{WINDOW_COLOUR_2}
 STR_2118    :{WINDOW_COLOUR_2}
 STR_2119    :{WINDOW_COLOUR_2}
@@ -1461,7 +1461,7 @@ STR_2134    :Gyümölcslé
 STR_2135    :Szójatej
 STR_2136    :Szudzsonggva
 STR_2137    :Szendvics
-STR_2138    :Süti
+STR_2138    :Csokis keksz
 STR_2139    :Üres tál
 STR_2140    :Üres kis dobozos üdítő
 STR_2141    :Üres gyümölcsleves pohár
@@ -1480,7 +1480,7 @@ STR_2156    :Gyümölcslé
 STR_2157    :Szójatej
 STR_2158    :Szudzsonggva
 STR_2159    :Szendvics
-STR_2160    :Süti
+STR_2160    :Csokis keksz
 STR_2161    :Üres tál
 STR_2162    :Üres kis dobozos üdítő
 STR_2163    :Üres gyümölcsleves pohár
@@ -1499,7 +1499,7 @@ STR_2178    :gyümölcslé
 STR_2179    :szójatej
 STR_2180    :szudzsonggva
 STR_2181    :egy szendvics
-STR_2182    :egy süti
+STR_2182    :egy csokis keksz
 STR_2183    :egy üres tál
 STR_2184    :egy üres kis dobozos üdítő
 STR_2185    :egy üres gyümölcsleves pohár
@@ -1518,7 +1518,7 @@ STR_2200    :Gyümölcslé
 STR_2201    :Szójatej
 STR_2202    :Szudzsonggva
 STR_2203    :Szendvics
-STR_2204    :Süti
+STR_2204    :Csokis keksz
 STR_2205    :Üres tál
 STR_2206    :Üres kis dobozos üdítő
 STR_2207    :Üres gyümölcsleves pohár
@@ -1725,9 +1725,9 @@ STR_2414    :(Nincs kiválasztva)
 STR_2415    :{WINDOW_COLOUR_2}Játék:
 STR_2416    :{WINDOW_COLOUR_2}Tárgy:
 STR_2417    :{WINDOW_COLOUR_2}Időtartam:
-STR_2418    :Ingyenes belépés ide:{STRINGID}
-STR_2419    :Ingyenes utazás ezen: {STRINGID}
-STR_2420    :Féláras belépés ide: {STRINGID}
+STR_2418    :{STRINGID} ingyen belépésre
+STR_2419    :{STRINGID} ingyen utazásra
+STR_2420    :{STRINGID} féláras belépésre
 STR_2421    :Ingyen {STRINGID}
 STR_2424    :{WINDOW_COLOUR_2}Kuponok ingyenes parkbelépésre 
 STR_2425    :{WINDOW_COLOUR_2}Kuponok egy játék ingyenes használatára
