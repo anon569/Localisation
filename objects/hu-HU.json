@@ -167,7 +167,7 @@
         "reference-name": "Dodgems",
         "name": "Dodzsemek",
         "reference-description": "Riders bump into each other in self-drive electric dodgems",
-        "description": "Az utasok önjáró elektromos dodzsemekben ütköznek egymásnak",
+        "description": "Az utasok önvezető elektromos dodzsemekben ütköznek egymásnak",
         "reference-capacity": "1 person per car",
         "capacity": "1 személy kocsinként"
     },
@@ -181,7 +181,7 @@
         "reference-name": "Go-Karts (with helmets)",
         "name": "Gokartok (sisakokkal)",
         "reference-description": "Self-driven petrol-engined go-karts that come with safety helmets",
-        "description": "Önjáró, benzinmotoros gokartok, amelyekhez biztonsági sisak is jár",
+        "description": "Önvezető, benzinmotoros gokartok, amelyekhez biztonsági sisak is jár",
         "reference-capacity": "single-seater",
         "capacity": "Egyszemélyes"
     },
@@ -2277,7 +2277,7 @@
     },
     "rct2.ride.cindr": {
         "reference-name": "Sujeonggwa Stall",
-        "name": "Szudzsonggva-árus",
+        "name": "Szudzsonggvás bódé",
         "reference-description": "A stall selling Korean style Sujeonggwa drinks",
         "description": "Bódé, ahol koreai stílusú szudzsonggvát árulnak"
     },
@@ -2319,9 +2319,9 @@
     },
     "rct2.ride.cookst": {
         "reference-name": "Cookie Shop",
-        "name": "Kekszárus",
+        "name": "Csokis kekszes bódé",
         "reference-description": "A stall selling giant cookies",
-        "description": "Bódé, ahol óriási kekszeket árulnak"
+        "description": "Bódé, ahol óriási csokis kekszeket árulnak"
     },
     "rct2.ride.cstboat": {
         "reference-name": "Coaster Boats",
@@ -2351,7 +2351,7 @@
         "reference-name": "Dodgems",
         "name": "Dodzsemek",
         "reference-description": "Riders bump into each other in self-drive electric dodgems",
-        "description": "Az utasok önjáró elektromos dodzsemekben ütköznek egymásnak",
+        "description": "Az utasok önvezető elektromos dodzsemekben ütköznek egymásnak",
         "reference-capacity": "1 person per car",
         "capacity": "1 személy kocsinként"
     },
@@ -2397,7 +2397,7 @@
     },
     "rct2.ride.funcake": {
         "reference-name": "Funnel Cake Shop",
-        "name": "Tölcsérfánk árus",
+        "name": "Tölcsérfánk-bolt",
         "reference-description": "A stall selling funnel cakes",
         "description": "Tölcsérfánkot árusító bódé"
     },
@@ -2571,25 +2571,25 @@
     },
     "rct2.ride.kart1": {
         "reference-name": "Go-Karts",
-        "name": "Go-Karts",
+        "name": "Gokartok",
         "reference-description": "Self-drive petrol-engined go-karts",
-        "description": "Self-drive petrol-engined go-karts",
+        "description": "Benzinmotoros, önvezető gokartok",
         "reference-capacity": "single-seater",
-        "capacity": "single-seater"
+        "capacity": "Egyszemélyes"
     },
     "rct2.ride.lemst": {
         "reference-name": "Lemonade Stall",
-        "name": "Lemonade Stall",
+        "name": "Limonádéárus",
         "reference-description": "A stall selling refreshing lemonade drinks",
-        "description": "A stall selling refreshing lemonade drinks"
+        "description": "Frissítő limonádét árusító bódé"
     },
     "rct2.ride.lfb1": {
         "reference-name": "Logs",
-        "name": "Logs",
+        "name": "Rönkök",
         "reference-description": "Log-shaped boats built for running in water channels",
-        "description": "Log-shaped boats built for running in water channels",
+        "description": "Vízicsatornákban való haladásra épített, rönk alakú csónakok",
         "reference-capacity": "4 passengers per boat",
-        "capacity": "4 passengers per boat"
+        "capacity": "4 utas csónakonként"
     },
     "rct2.ride.lift1": {
         "reference-name": "Lift Cabin",
@@ -2731,9 +2731,9 @@
     },
     "rct2.ride.pretst": {
         "reference-name": "Pretzel Stall",
-        "name": "Pretzel Stall",
+        "name": "Pereces bódé",
         "reference-description": "A stall selling crispy pretzels",
-        "description": "A stall selling crispy pretzels"
+        "description": "Ropogós pereceket árusító bódé"
     },
     "rct2.ride.ptct1": {
         "reference-name": "Wooden Roller Coaster Trains",
@@ -2997,9 +2997,9 @@
     },
     "rct2.ride.sungst": {
         "reference-name": "Sunglasses Stall",
-        "name": "Sunglasses Stall",
+        "name": "Napszemüveges bódé",
         "reference-description": "A stall selling all kinds of sunglasses",
-        "description": "A stall selling all kinds of sunglasses"
+        "description": "Mindenféle napszemüveget árusító bódé"
     },
     "rct2.ride.swans": {
         "reference-name": "Swans",
@@ -3069,11 +3069,11 @@
     },
     "rct2.ride.tram1": {
         "reference-name": "Trams",
-        "name": "Trams",
+        "name": "Villamosok",
         "reference-description": "Old-timer replica trams",
-        "description": "Old-timer replica trams",
+        "description": "Nosztalgiavillamosok másolatai",
         "reference-capacity": "10 passengers per car",
-        "capacity": "10 passengers per car"
+        "capacity": "10 utas kocsinként"
     },
     "rct2.ride.trike": {
         "reference-name": "Water Tricycles",
@@ -5919,7 +5919,7 @@
         "reference-name": "Caveman Cars",
         "name": "Ősember kocsik",
         "reference-description": "Self-drive go-karts in Stone Age style",
-        "description": "Önjáró gokartok, kőkorszaki stílusban",
+        "description": "Önvezető gokartok, kőkorszaki stílusban",
         "reference-capacity": "Single-seater",
         "capacity": "Egyszemélyes"
     },
