@@ -574,7 +574,7 @@ STR_1202    :Egy ember áll a sorban
 STR_1203    :{COMMA16} ember áll a sorban
 STR_1204    :{COMMA16} perc a sorbanállási idő
 STR_1205    :{COMMA16} perc a sorbanállási idő
-STR_1206    :{WINDOW_COLOUR_2}Várjon erre:
+STR_1206    :{WINDOW_COLOUR_2}Várjon amíg:
 STR_1207    :{WINDOW_COLOUR_2}Távozzon, ha másik vonat érkezik az állomásra
 STR_1208    :{WINDOW_COLOUR_2}Távozzon, ha másik csónak érkezik az állomásra
 STR_1209    :Válaszd ki, hogy várakozzon-e utasokra indulás előtt
