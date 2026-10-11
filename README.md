@@ -26,6 +26,8 @@ For more information, see our [wiki article on committing basics](https://github
 ### Creating a new language
 If you want to begin translating OpenRCT2 for a new language, create a new file in the data directory with the correct two letter [language](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes#Partial_ISO_639_table) and [country codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Decoding_table) (e.g. `cs-CZ`), then paste the contents of the [en-GB](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt) file into it and start translating the strings.
 
+Please note that translations must be made by hand. This is needed because many strings can be translated in several ways, so you need to have played the game to understand the context, and also because some strings have a maximum length in order to fit into the GUI, which again requires a human to check. As such, please do not use any translators or LLMs.
+
 ### Maintainers & Maintaining languages
 In each commit you create regarding a language file change, start the commit description (aka message) with the language and country code you're translating into, discussed in the previous paragraph (`cs-CZ`, `es-ES`, etc) (i.e. `git commit -m "es-ES: Description of the commit"` )
 
@@ -49,7 +51,7 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/de--DE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/de-DE.txt) |   | [Wuzzy2](https://github.com/Wuzzy2)                 |
 | [![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) |   | -Anyone-                                                                                     |
 | [![](https://img.shields.io/badge/eo--ZZ-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/eo-ZZ.txt) |   | [tellovishous](https://github.com/tellovishous)                                              |
-| [![](https://img.shields.io/badge/es--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/es-ES.txt) |   | [dimateos](https://github.com/dimateos) 		                                                   |
+| [![](https://img.shields.io/badge/es--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/es-ES.txt) |   | [dimateos](https://github.com/dimateos), [Davis-3450](https://github.com/Davis-3450) 		                                                   |
 | [![](https://img.shields.io/badge/fr--CA-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) |   | [TheClaudeQC](https://github.com/TheClaudeQC)                                                     |
 | [![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) |   | [rmnvgr](https://github.com/rmnvgr)                                                          |
 | [![](https://img.shields.io/badge/gl--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/gl-ES.txt)  |   | [ninjum](https://github.com/ninjum)                                                          |
@@ -79,7 +81,7 @@ Anyone can still contribute to the languages.
 
 These languages only need strings if they differ from the one they are inheriting from
 
-| Language | Inherits from | Maintainer |          
+| Language | Inherits from | Maintainer |
 | -------- | ------------- | ---------- |
 | [![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) | en-GB |  |
 | [![](https://img.shields.io/badge/fr--CA-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-CA.txt) | fr-FR | [TheClaudeQC](https://github.com/TheClaudeQC) |
