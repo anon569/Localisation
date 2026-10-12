@@ -2447,37 +2447,37 @@
     },
     "rct2.ride.hatst": {
         "reference-name": "Hat Stall",
-        "name": "Hat Stall",
+        "name": "Kalapárus bódé",
         "reference-description": "A souvenir stall selling large foam hats",
-        "description": "A souvenir stall selling large foam hats"
+        "description": "Szuveníres bódé, ahol nagyméretű habszivacs kalapokat lehet kapni"
     },
     "rct2.ride.hchoc": {
         "reference-name": "Hot Chocolate Stall",
-        "name": "Hot Chocolate Stall",
+        "name": "Forró csokoládés bódé",
         "reference-description": "A stall selling hot chocolate drinks",
-        "description": "A stall selling hot chocolate drinks"
+        "description": "Forró csokoládét árusító bódé"
     },
     "rct2.ride.helicar": {
         "reference-name": "Mini Helicopters",
-        "name": "Mini Helicopters",
+        "name": "Mini helikopterek",
         "reference-description": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
-        "description": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
+        "description": "Motoros, helikopter alakú járművek, amelyeket az utasok pedálozással irányítanak",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct2.ride.hhbuild": {
         "reference-name": "Haunted House",
-        "name": "Haunted House",
+        "name": "Kísértetház",
         "reference-description": "Large themed building containing scary corridors and spooky rooms",
-        "description": "Large themed building containing scary corridors and spooky rooms",
+        "description": "Nagy, tematikus épület ijesztő folyosókkal és rémisztő szobákkal",
         "reference-capacity": "15 guests",
-        "capacity": "15 guests"
+        "capacity": "15 vendég"
     },
     "rct2.ride.hmaze": {
         "reference-name": "Maze",
-        "name": "Maze",
+        "name": "Labirintus",
         "reference-description": "Maze is constructed from 6-foot tall hedges or walls, and guests wander around the maze leaving only when they find the exit",
-        "description": "Maze is constructed from 6-foot tall hedges or walls, and guests wander around the maze leaving only when they find the exit"
+        "description": "A labirintus közel kétméteres sövényekből vagy falakból áll, a vendégek pedig addig bolyonganak benne, amíg meg nem találják a kijáratot"
     },
     "rct2.ride.hmcar": {
         "reference-name": "Haunted Mansion Cars",
@@ -2489,17 +2489,17 @@
     },
     "rct2.ride.hotds": {
         "reference-name": "Hot Dog Stall",
-        "name": "Hot Dog Stall",
+        "name": "Hot dogos bódé",
         "reference-description": "A stall selling hot dogs in rolls",
-        "description": "A stall selling hot dogs in rolls"
+        "description": "Kiflis hot dogot árusító bódé"
     },
     "rct2.ride.hskelt": {
         "reference-name": "Spiral Slide",
-        "name": "Spiral Slide",
+        "name": "Spirálcsúszda",
         "reference-description": "Wooden building with an internal staircase and an external spiral slide for use with slide mats",
-        "description": "Wooden building with an internal staircase and an external spiral slide for use with slide mats",
+        "description": "Faépület belső lépcsővel és külső spirálcsúszdával, amelyen csúszószőnyeggel lehet lecsúszni",
         "reference-capacity": "1 person at a time",
-        "capacity": "1 person at a time"
+        "capacity": "Egyszerre 1 személy"
     },
     "rct2.ride.icecr1": {
         "reference-name": "Fruity Ices Stall",
@@ -9097,7 +9097,7 @@
         "reference-park_name": "Ayers Adventure",
         "park_name": "Ayers Kaland",
         "reference-details": "You are helping Aboriginal people to build a park as part of a cultural awareness program. You need to get a large number of guests to educate them in the unique heritage of the Aboriginal people.",
-        "details": "Segítesz az aborigineknek egy parkot építeni egy kulturális tudatossági program részeként. Rengeteg vendéget kell szerezned, hogy megismertesd velük az aborigin nép egyedülálló örökségét."
+        "details": "Egy kulturális tudatossági program keretében segítesz az ausztrál őslakosoknak felépíteni egy parkot. Sok látogatót kell a parkba vonzanod, hogy megismerhessék az őslakosok egyedülálló örökségét."
     },
     "rct2ww.scenario_meta.beach_barbecue_blast": {
         "reference-name": "Beach Barbecue Blast",
@@ -9257,15 +9257,15 @@
     },
     "rct2ww.scenery_large.1x2abr01": {
         "reference-name": "Aboriginal Plain Tile",
-        "name": "Őslakos sima csempe"
+        "name": "Ausztrál őslakos sima csempe"
     },
     "rct2ww.scenery_large.1x2abr02": {
         "reference-name": "Aboriginal Snake Artwork",
-        "name": "Őslakos kígyóábrázolás"
+        "name": "Ausztrál őslakos kígyóábrázolás"
     },
     "rct2ww.scenery_large.1x2abr03": {
         "reference-name": "Aboriginal Spirit Artwork",
-        "name": "Őslakos szellemábrázolás"
+        "name": "Ausztrál őslakos szellemábrázolás"
     },
     "rct2ww.scenery_large.1x2azt01": {
         "reference-name": "Temple Wall Piece with Head",
@@ -10541,35 +10541,35 @@
     },
     "rct2ww.scenery_small.waborg01": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Aboriginal Art Set Piece"
+        "name": "Ausztrál őslakos művészeti díszletelem"
     },
     "rct2ww.scenery_small.waborg02": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Aboriginal Art Set Piece"
+        "name": "Ausztrál őslakos művészeti díszletelem"
     },
     "rct2ww.scenery_small.waborg03": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Aboriginal Art Set Piece"
+        "name": "Ausztrál őslakos művészeti díszletelem"
     },
     "rct2ww.scenery_small.waborg04": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Aboriginal Art Set Piece"
+        "name": "Ausztrál őslakos művészeti díszletelem"
     },
     "rct2ww.scenery_small.waborg05": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Aboriginal Art Set Piece"
+        "name": "Ausztrál őslakos művészeti díszletelem"
     },
     "rct2ww.scenery_small.waborg06": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Aboriginal Art Set Piece"
+        "name": "Ausztrál őslakos művészeti díszletelem"
     },
     "rct2ww.scenery_small.waborg07": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Aboriginal Art Set Piece"
+        "name": "Ausztrál őslakos művészeti díszletelem"
     },
     "rct2ww.scenery_small.waborg08": {
         "reference-name": "Aboriginal Art Set Piece",
-        "name": "Aboriginal Art Set Piece"
+        "name": "Ausztrál őslakos művészeti díszletelem"
     },
     "rct2ww.scenery_small.waztec01": {
         "reference-name": "Temple Roof Piece",
